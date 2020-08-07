@@ -9,6 +9,7 @@
 /resourcepacks/
 /mods/
 /.github/
+/llibrary/
 
 # Client Configs
 config/InvTweaks.cfg
