@@ -2411,6 +2411,20 @@
   "name": "Custom Modpack",
   "cachedScans": [
     {
+      "folderName": ",gitignore.txt",
+      "fingerprint": 1,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1
+      ],
+      "status": 1,
+      "timestamp": "2020-08-07T05:51:58.8227043Z",
+      "lastWriteTimeUtc": "2020-08-07T02:07:04.7041053Z",
+      "queryTimestamp": "2020-08-07T05:51:59.5628768Z",
+      "fileCount": 1,
+      "fileSize": 157
+    },
+    {
       "folderName": "ExtraPlanets-1.12.2-0.6.5.jar",
       "fingerprint": 53475690,
       "fileDateHash": 627615686,
@@ -2454,6 +2468,32 @@
       "queryTimestamp": "2020-08-07T05:51:59.5658689Z",
       "fileCount": 1,
       "fileSize": 10610662
+    },
+    {
+      "folderName": "Galacticraft-Planets-1.12.2-4.0.2.280.jar",
+      "fingerprint": 1601774095,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1601774095
+      ],
+      "timestamp": "2020-08-07T05:51:58.9044875Z",
+      "lastWriteTimeUtc": "2020-08-07T05:09:52.6686226Z",
+      "queryTimestamp": "2020-08-07T05:51:59.5658689Z",
+      "fileCount": 1,
+      "fileSize": 3975978
+    },
+    {
+      "foldername": "MicdoodleCore-1.12.2-4.0.2.280.jar",
+      "fingerprint": 1601774096,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1601774096
+      ],
+      "timestamp": "2020-08-07T05:51:58.9044875Z",
+      "lastWriteTimeUtc": "2020-08-07T05:09:52.6686226Z",
+      "queryTimestamp": "2020-08-07T05:51:59.5658689Z",
+      "fileCount": 1,
+      "fileSize": 53300
     },
     {
       "folderName": "zerocore-1.12.2-0.1.2.8.jar",
