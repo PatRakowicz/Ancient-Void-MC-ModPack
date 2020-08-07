@@ -10,7 +10,7 @@ Forge Version ```14.23.5.2854```
 
 Will be using [Twitch](https://www.twitch.tv/downloads/)
 
-To have it load on twitch, open the `Dev` folder and run the `startup`. It should download and load anything nessessary and will show up on your twitch launcher.
+To have it load on twitch, open the `Dev` folder and run the `startup` It should download and load anything nessessary and will show up on your twitch launcher.
 
 ## Contributing
 To help with any error, you are free too. Just make sure to speak with one of the three main project contributors to do so.
