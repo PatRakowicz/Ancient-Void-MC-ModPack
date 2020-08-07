@@ -12,10 +12,16 @@
 
 # Client Configs
 config/InvTweaks.cfg
-crafttweaker.log
-usercache.json
-usernamecache.json
 .curseclient
 Run Me.lnk
 minecraftinstance.json
 config/brandon3055/contributors.json
+usernamecache.json
+usercache.json
+knownkeys.txt
+servers.dat
+realms_persistence.json
+WailaErrorOutput.txt
+ItemDump.txt
+BotaniaVars.dat
+crafttweaker.log
