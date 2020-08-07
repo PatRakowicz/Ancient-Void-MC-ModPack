@@ -3,13 +3,14 @@
 /journeymap/
 /crash-reports/
 /.mixin.out/
+/downloads/
 /logs/
 /llibrary/
 /saves/
 /Server_Items/
 /resourcepacks/
-/mods/
 /.github/
+/llibrary/
 
 # Client Configs
 config/InvTweaks.cfg
