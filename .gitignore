@@ -8,8 +8,6 @@
 /saves/
 /Server_Items/
 /resourcepacks/
-/mods/1.12.2-sub/
-/mods/memory_repo/
 /.github/
 /llibrary/
 
@@ -27,3 +25,4 @@ WailaErrorOutput.txt
 ItemDump.txt
 BotaniaVars.dat
 crafttweaker.log
+options.txt
