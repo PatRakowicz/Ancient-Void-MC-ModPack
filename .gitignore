@@ -1,5 +1,5 @@
 
-# Folders to ignore
+# Folders
 /journeymap/
 /crash-reports/
 /.mixin.out/
@@ -8,11 +8,20 @@
 /Server_Items/
 /resourcepacks/
 /mods/
+/.github/
 
 # Client Configs
 config/InvTweaks.cfg
-README.md
-crafttweaker.log
-usercache.json
-usernamecache.json
 .curseclient
+Run Me.lnk
+minecraftinstance.json
+config/brandon3055/contributors.json
+usernamecache.json
+usercache.json
+knownkeys.txt
+servers.dat
+realms_persistence.json
+WailaErrorOutput.txt
+ItemDump.txt
+BotaniaVars.dat
+crafttweaker.log
