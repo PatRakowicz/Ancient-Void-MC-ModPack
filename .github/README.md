@@ -1,4 +1,4 @@
-# (Modpack Name)
+# Ancient Void
 
 Minecraft Modpack with all sort of mods, it is going to be Tech heavy with a mix of other explore mods and some difficulty mods.
 
@@ -18,10 +18,8 @@ Make sure to debug before pushing.
 Mod review and errors will be seen on the [Google Doc](https://docs.google.com/document/d/1TyG3nScrElckNLkzJur-OtSQ5NWQJDNcuoDmzgV2wG0/edit?usp=sharing).
 
 ## Task-List
-- [ ] Seperate Client Side and Server Side Mods. (For the server not the client)
-- [ ] Get Most World Generation Mods Downloaded (Mods that influence terrain generation and spawn ores etc)
-- [ ] First Launch
-- [ ] Crafting Recipe tweaking
+- [ ] Server Files Completed
+- [ ] 1.0 Launch
 
 ## Mod List
 
