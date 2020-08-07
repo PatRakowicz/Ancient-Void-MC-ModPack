@@ -20,6 +20,7 @@ usernamecache.json
 usercache.json
 knownkeys.txt
 servers.dat
+/config/splash.properties
 realms_persistence.json
 WailaErrorOutput.txt
 ItemDump.txt
