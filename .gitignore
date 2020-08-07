@@ -14,6 +14,7 @@
 
 # Client Configs
 config/InvTweaks.cfg
+config/splash.properties
 .curseclient
 minecraftinstance.json
 config/brandon3055/contributors.json
@@ -21,7 +22,6 @@ usernamecache.json
 usercache.json
 knownkeys.txt
 servers.dat
-config/splash.properties
 realms_persistence.json
 WailaErrorOutput.txt
 ItemDump.txt
