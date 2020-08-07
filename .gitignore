@@ -11,10 +11,17 @@
 /resourcepacks/
 /.github/
 /llibrary/
+config/CustomSpawner/logs
+config/jei/
+/valkyrielib/
 
 # Client Configs
 config/InvTweaks.cfg
 config/splash.properties
+config/Aether/config.cfg
+config/ichunutil.cfg
+config/AppliedEnergistics/VersionChecker.cfg
+config/Aether/analytics.json.gz
 .curseclient
 minecraftinstance.json
 config/brandon3055/contributors.json
