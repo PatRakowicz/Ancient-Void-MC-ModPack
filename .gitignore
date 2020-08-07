@@ -1,0 +1,17 @@
+
+# Folders to ignore
+/journeymap/
+/crash-reports/
+/.mixin.out/
+/logs/
+/saves/
+/Server_Items/
+/resourcepacks/
+
+# Client Configs
+config/InvTweaks.cfg
+README.md
+crafttweaker.log
+usercache.json
+usernamecache.json
+.curseclient
