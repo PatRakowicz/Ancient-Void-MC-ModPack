@@ -8,10 +8,10 @@
 /Server_Items/
 /resourcepacks/
 /mods/
+/.github/
 
 # Client Configs
 config/InvTweaks.cfg
-READjME.md
 crafttweaker.log
 usercache.json
 usernamecache.json
