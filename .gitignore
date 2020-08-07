@@ -30,3 +30,4 @@ crafttweaker.log
 options.txt
 mods/.gitignore
 valkyrielib/*
+config/IC2.ini
