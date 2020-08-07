@@ -11,10 +11,15 @@
 /resourcepacks/
 /.github/
 /llibrary/
+config/CustomSpawner/logs/*
+/config/jei/
 
 # Client Configs
 config/InvTweaks.cfg
 config/splash.properties
+config/ichunutil.cfg
+config/Aether/analytics.json.gz
+config/betterfps.json
 .curseclient
 minecraftinstance.json
 config/brandon3055/contributors.json
