@@ -8,7 +8,7 @@ Minecraft Version ```1.12.2```
 
 Forge Version ```14.23.5.2854```
 
-Will be using Twitch
+Will be using [Twitch](https://www.twitch.tv/downloads/)
 
 ## Contributing
 To help with any error, you are free too. Just make sure to speak with one of the three main project contributors to do so.

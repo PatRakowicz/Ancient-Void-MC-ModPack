@@ -5,6 +5,7 @@
 /.mixin.out/
 /downloads/
 /logs/
+/llibrary/
 /saves/
 /Server_Items/
 /resourcepacks/
@@ -20,6 +21,7 @@ usernamecache.json
 usercache.json
 knownkeys.txt
 servers.dat
+/config/splash.properties
 realms_persistence.json
 WailaErrorOutput.txt
 ItemDump.txt
