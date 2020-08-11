@@ -23,7 +23,7 @@ config/ichunutil.cfg
 config/AppliedEnergistics/VersionChecker.cfg
 config/Aether/analytics.json.gz
 .curseclient
-minecraftinstance.json
+/minecraftinstance.json
 config/brandon3055/contributors.json
 usernamecache.json
 usercache.json
