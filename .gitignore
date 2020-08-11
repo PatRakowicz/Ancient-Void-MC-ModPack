@@ -35,3 +35,4 @@ crafttweaker.log
 options.txt
 mods/.gitignore
 config/AppliedEnergistics2/VersionChecker.cfg
+minecraftinstance.json
