@@ -20,10 +20,8 @@ config/InvTweaks.cfg
 config/splash.properties
 config/Aether/config.cfg
 config/ichunutil.cfg
-/config/AppliedEnergistics/VersionChecker.cfg
 config/Aether/analytics.json.gz
 .curseclient
-/minecraftinstance.json
 config/brandon3055/contributors.json
 usernamecache.json
 usercache.json
@@ -36,3 +34,4 @@ BotaniaVars.dat
 crafttweaker.log
 options.txt
 mods/.gitignore
+config/AppliedEnergistics2/VersionChecker.cfg
