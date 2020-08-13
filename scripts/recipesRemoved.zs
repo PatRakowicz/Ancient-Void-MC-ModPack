@@ -105,13 +105,8 @@ import crafttweaker.oredict.IOreDictEntry;
     
     //@slabmachines
         //Crafting Station
-            recipes.remove("slabmachines:workbench_from_slab", <minecraft:crafting_table>, [[<slabmachines:workbench_slab>], [<slabmachines:workbench_slab>]]);
+            recipes.remove(<slabmachines:workbench_slab>);
 
     //@extraplanets
         //Crafting Table
-            recipes.remove("extraplanets:crafting_table_alt_alt_alt_alt_alt", <minecraft:crafting_table>);
-            recipes.remove("extraplanets:crafting_table_alt_alt_alt_alt", <minecraft:crafting_table>);
-            recipes.remove("extraplanets:crafting_table_alt_alt_alt", <minecraft:crafting_table>);
-            recipes.remove("extraplanets:crafting_table_alt_alt", <minecraft:crafting_table>);
-            recipes.remove("extraplanets:crafting_table_alt", <minecraft:crafting_table>);
-            recipes.remove("extraplanets:crafting_table", <minecraft:crafting_table>);
+            //recipes.removeShapeless(<minecraft:crafting_table>, [[<extraplanets:kepler22b_planks:2>], [<extraplanets:kepler22b_planks:2>], [<extraplanets:kepler22b_planks:2>], [<extraplanets:kepler22b_planks:2>]]);
