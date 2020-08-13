@@ -95,23 +95,23 @@ import crafttweaker.oredict.IOreDictEntry;
         
     //@tconstruct   
         //Crafting Tables
-                recipes.remove(<tconstruct:pattern>);      //Pattern
-                recipes.remove(<tconstruct:tooltables>);   //Crafting Station
-                recipes.remove(<tconstruct:tooltables:3>); //Tool Station
-                recipes.remove(<tconstruct:tooltables:2>); //Part Builder
-                recipes.remove(<tconstruct:tooltables:1>); //Stencil Table
-                recipes.remove(<tconstruct:tooltables:4>); //Pattern Chest
-                recipes.remove(<tconstruct:toolforge>);    //Tool Forge
+            recipes.remove(<tconstruct:pattern>);      //Pattern
+            recipes.remove(<tconstruct:tooltables>);   //Crafting Station
+            recipes.remove(<tconstruct:tooltables:3>); //Tool Station
+            recipes.remove(<tconstruct:tooltables:2>); //Part Builder
+            recipes.remove(<tconstruct:tooltables:1>); //Stencil Table
+            recipes.remove(<tconstruct:tooltables:4>); //Pattern Chest
+            recipes.remove(<tconstruct:toolforge>);    //Tool Forge
     
     //@slabmachines
         //Crafting Station
-                recipes.remove("slabmachines:workbench_from_slab", <minecraft:crafting_table>, [[<slabmachines:workbench_slab>], [<slabmachines:workbench_slab>]]);
+            recipes.remove("slabmachines:workbench_from_slab", <minecraft:crafting_table>, [[<slabmachines:workbench_slab>], [<slabmachines:workbench_slab>]]);
 
     //@extraplanets
         //Crafting Table
-            recipes.remove("extraplanets:crafting_table_alt_alt_alt_alt_alt", <minecraft:crafting_table> * 2, [<extraplanets:kepler22b_planks:4>, <extraplanets:kepler22b_planks:4>, <extraplanets:kepler22b_planks:4>, <extraplanets:kepler22b_planks:4>]);
-            recipes.remove("extraplanets:crafting_table_alt_alt_alt_alt", <minecraft:crafting_table> * 2, [<extraplanets:kepler22b_planks:4>, <extraplanets:kepler22b_planks:4>, <extraplanets:kepler22b_planks:4>, <extraplanets:kepler22b_planks:4>]);
-            recipes.remove("extraplanets:crafting_table_alt_alt_alt", <minecraft:crafting_table> * 2, [<extraplanets:kepler22b_planks:4>, <extraplanets:kepler22b_planks:4>, <extraplanets:kepler22b_planks:4>, <extraplanets:kepler22b_planks:4>]);
-            recipes.remove("extraplanets:crafting_table_alt_alt", <minecraft:crafting_table> * 2, [<extraplanets:kepler22b_planks:4>, <extraplanets:kepler22b_planks:4>, <extraplanets:kepler22b_planks:4>, <extraplanets:kepler22b_planks:4>]);
-            recipes.remove("extraplanets:crafting_table_alt", <minecraft:crafting_table> * 2, [<extraplanets:kepler22b_planks:4>, <extraplanets:kepler22b_planks:4>, <extraplanets:kepler22b_planks:4>, <extraplanets:kepler22b_planks:4>]);
-            recipes.remove("extraplanets:crafting_table", <minecraft:crafting_table> * 2, [<extraplanets:kepler22b_planks:4>, <extraplanets:kepler22b_planks:4>, <extraplanets:kepler22b_planks:4>, <extraplanets:kepler22b_planks:4>]);
+            recipes.remove("extraplanets:crafting_table_alt_alt_alt_alt_alt", <minecraft:crafting_table>);
+            recipes.remove("extraplanets:crafting_table_alt_alt_alt_alt", <minecraft:crafting_table>);
+            recipes.remove("extraplanets:crafting_table_alt_alt_alt", <minecraft:crafting_table>);
+            recipes.remove("extraplanets:crafting_table_alt_alt", <minecraft:crafting_table>);
+            recipes.remove("extraplanets:crafting_table_alt", <minecraft:crafting_table>);
+            recipes.remove("extraplanets:crafting_table", <minecraft:crafting_table>);
