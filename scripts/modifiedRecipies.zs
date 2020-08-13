@@ -20,7 +20,14 @@
         val toolStation = <tconstruct:tooltables:3>; //Tool Station
         val toolForge = <tconstruct:toolforge>.withTag({textureBlock: {id: "thermalfoundation:storage_alloy", Count: 1 as byte, Damage: 0 as short}}); //Tool Forge
         val sButton = <minecraft:stone_button>; //Stone Button
-        
+        val piston = <minecraft:piston>; //Piston
+        val redAlloy = <projectred-core:resource_item:103>; //Red Alloy Project Red
+        val steelPlate = <thermalfoundation:material:352>; //Steel Plate
+        val treatedWood = <immersiveengineering:treated_wood>; //Treated Wood
+        val compressedCobble = <extrautils2:compressedcobblestone>; //9x Compessed Cobblestone
+        val cobblestone = <minecraft:cobblestone>; //Cobblestone
+        val chest = <minecraft:chest>; //Chest
+        val ironPlate = <ore:plateIron>; //Ore Dict Iron Plate        
 //Craftable Tools
     
     //Diamond Pickaxe
@@ -82,6 +89,29 @@
                 [[log, plank, log],
                  [plank, sButton, plank],
                  [log, plank, log]]);
+
+            //Piston
+                recipes.addShaped("Piston", <minecraft:piston>,
+                [[treatedWood, treatedWood, treatedWood],
+                 [compressedCobble, steelPlate, compressedCobble],
+                 [compressedCobble, redAlloy, compressedCobble]]);
+
+            //Furnace
+                recipes.addShaped("Furnace", <minecraft:furnace>,
+                [[compressedCobble, cobblestone, compressedCobble],
+                 [cobblestone, null, cobblestone],
+                 [compressedCobble, cobblestone, compressedCobble]]);
+
+            //Hopper
+                recipes.addShaped("Hopper", <minecraft:hopper>,
+                [[steelPlate, null, steelPlate],
+                 [steelPlate, chest, steelPlate],
+                 [null, steelPlate, null]]);
+
+            //Bucket
+                recipes.addShaped("Bucket", <minecraft:bucket>, 
+                [[ironPlate, null, ironPlate],
+                 [null, ironPlate, null]]);
 
 
         
