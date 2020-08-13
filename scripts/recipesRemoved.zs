@@ -1,6 +1,7 @@
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
 import crafttweaker.oredict.IOreDictEntry;
+
 //import crafttweaker.RecipeID;
     
     //@vanilla
@@ -88,14 +89,20 @@ import crafttweaker.oredict.IOreDictEntry;
         //Chests
                 val chestWood = <ore:chest>;
                     recipes.remove(chestWood);
-
-        
         //Sticks
                 recipes.remove(<minecraft:stick>);
+        //Pistons
+                recipes.remove(<minecraft:piston>);
+        //Furnace
+                recipes.remove(<minecraft:furnace>);
+        //Hopper
+                recipes.remove(<minecraft:hopper>);
+        //Bucket
+                recipes.remove(<minecraft:bucket>);
         
     //@tconstruct   
         //Crafting Tables
-            recipes.remove(<tconstruct:pattern>);      //Pattern
+            recipes.rsemove(<tconstruct:pattern>);      //Pattern
             recipes.remove(<tconstruct:tooltables>);   //Crafting Station
             recipes.remove(<tconstruct:tooltables:3>); //Tool Station
             recipes.remove(<tconstruct:tooltables:2>); //Part Builder
