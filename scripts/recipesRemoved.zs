@@ -41,7 +41,7 @@ import crafttweaker.oredict.IOreDictEntry;
                     <minecraft:diamond_hoe>,
                     <minecraft:diamond_pickaxe>,
                     <minecraft:diamond_axe>,
-                //Broze
+                //Bronze
                     <ic2:bronze_axe>,
                     <ic2:bronze_hoe>,
                     <ic2:bronze_pickaxe>,
