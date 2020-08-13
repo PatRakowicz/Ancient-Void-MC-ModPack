@@ -1,60 +1,59 @@
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
 import crafttweaker.oredict.IOreDictEntry;
+//import crafttweaker.RecipeID;
     
-    //Vanilla
-
+    //@vanilla
         //Tools and weapons removed
             val tools = [
             //Weapons
-                <minecraft:iron_sword>,
-                <minecraft:wooden_sword>,
-                <minecraft:stone_sword>,
-                <minecraft:bow>,
-                <minecraft:diamond_sword>,
-                <minecraft:golden_sword>,
+                    <minecraft:iron_sword>,
+                    <minecraft:wooden_sword>,
+                    <minecraft:stone_sword>,
+                    <minecraft:bow>,
+                    <minecraft:diamond_sword>,
+                    <minecraft:golden_sword>,
+            
             //Tools
-
-            //Iron
-                <minecraft:iron_shovel>,
-                <minecraft:iron_hoe>,
-                <minecraft:iron_pickaxe>,
-                <minecraft:iron_axe>,
-            //Wooden
-                <minecraft:wooden_shovel>,
-                <minecraft:wooden_hoe>,
-                <minecraft:wooden_pickaxe>,
-                <minecraft:wooden_axe>,
-            //Stone
-                <minecraft:stone_shovel>,
-                <minecraft:stone_pickaxe>,
-                <minecraft:stone_axe>,
-                <minecraft:stone_hoe>,
-            //Gold
-                <minecraft:golden_shovel>,
-                <minecraft:golden_pickaxe>,
-                <minecraft:golden_axe>,
-                <minecraft:golden_hoe>,
-             //Diamond
-                <minecraft:diamond_shovel>,
-                <minecraft:diamond_hoe>,
-                <minecraft:diamond_pickaxe>,
-                <minecraft:diamond_axe>,
-            //Broze
-                <ic2:bronze_axe>,
-                <ic2:bronze_hoe>,
-                <ic2:bronze_pickaxe>,
-                <ic2:bronze_shovel>,
-                <ic2:bronze_sword>,
-            //Misc
-                <minecraft:flint_and_steel>
-                        ] as IIngredient[];
-
-                        for tools in tools {
-                            recipes.remove(tools);
-                        }
+                //Iron
+                    <minecraft:iron_shovel>,
+                    <minecraft:iron_hoe>,
+                    <minecraft:iron_pickaxe>,
+                    <minecraft:iron_axe>,
+                //Wooden
+                    <minecraft:wooden_shovel>,
+                    <minecraft:wooden_hoe>,
+                    <minecraft:wooden_pickaxe>,
+                    <minecraft:wooden_axe>,
+                //Stone
+                    <minecraft:stone_shovel>,
+                    <minecraft:stone_pickaxe>,
+                    <minecraft:stone_axe>,
+                    <minecraft:stone_hoe>,
+                //Gold
+                    <minecraft:golden_shovel>,
+                    <minecraft:golden_pickaxe>,
+                    <minecraft:golden_axe>,
+                    <minecraft:golden_hoe>,
+                //Diamond
+                    <minecraft:diamond_shovel>,
+                    <minecraft:diamond_hoe>,
+                    <minecraft:diamond_pickaxe>,
+                    <minecraft:diamond_axe>,
+                //Broze
+                    <ic2:bronze_axe>,
+                    <ic2:bronze_hoe>,
+                    <ic2:bronze_pickaxe>,
+                    <ic2:bronze_shovel>,
+                    <ic2:bronze_sword>,
+                //Misc
+                    <minecraft:flint_and_steel>
+                            ] as IIngredient[];
+                            for tools in tools {
+                                recipes.remove(tools);
+                            }
+        
         //Wood & Planks
-
             val woodPlanks = [
                 <minecraft:planks>,
                 <biomesoplenty:planks_0:15>,
@@ -82,39 +81,37 @@ import crafttweaker.oredict.IOreDictEntry;
                 <extrautils2:ironwood_planks>,
                 <rustic:planks>
                     ] as IItemStack[]; 
-
                         for woodPlanks in woodPlanks {
-
                             recipes.remove(woodPlanks);
-
                         }
+        
         //Chests
-
                 val chestWood = <ore:chest>;
-
                     recipes.remove(chestWood);
 
+        
         //Sticks
                 recipes.remove(<minecraft:stick>);
         
-    //Tinkers Construct    
-        
+    //@tconstruct   
         //Crafting Tables
                 recipes.remove(<tconstruct:pattern>);      //Pattern
-
                 recipes.remove(<tconstruct:tooltables>);   //Crafting Station
-
                 recipes.remove(<tconstruct:tooltables:3>); //Tool Station
-
                 recipes.remove(<tconstruct:tooltables:2>); //Part Builder
-
                 recipes.remove(<tconstruct:tooltables:1>); //Stencil Table
-
                 recipes.remove(<tconstruct:tooltables:4>); //Pattern Chest
-                
                 recipes.remove(<tconstruct:toolforge>);    //Tool Forge
     
-    //Slab Blocks
-
+    //@slabmachines
         //Crafting Station
-                recipes.remove(<slabmachines:crafting_station_slab>);
+                recipes.remove("slabmachines:workbench_from_slab", <minecraft:crafting_table>, [[<slabmachines:workbench_slab>], [<slabmachines:workbench_slab>]]);
+
+    //@extraplanets
+        //Crafting Table
+            recipes.remove("extraplanets:crafting_table_alt_alt_alt_alt_alt", <minecraft:crafting_table> * 2, [<extraplanets:kepler22b_planks:4>, <extraplanets:kepler22b_planks:4>, <extraplanets:kepler22b_planks:4>, <extraplanets:kepler22b_planks:4>]);
+            recipes.remove("extraplanets:crafting_table_alt_alt_alt_alt", <minecraft:crafting_table> * 2, [<extraplanets:kepler22b_planks:4>, <extraplanets:kepler22b_planks:4>, <extraplanets:kepler22b_planks:4>, <extraplanets:kepler22b_planks:4>]);
+            recipes.remove("extraplanets:crafting_table_alt_alt_alt", <minecraft:crafting_table> * 2, [<extraplanets:kepler22b_planks:4>, <extraplanets:kepler22b_planks:4>, <extraplanets:kepler22b_planks:4>, <extraplanets:kepler22b_planks:4>]);
+            recipes.remove("extraplanets:crafting_table_alt_alt", <minecraft:crafting_table> * 2, [<extraplanets:kepler22b_planks:4>, <extraplanets:kepler22b_planks:4>, <extraplanets:kepler22b_planks:4>, <extraplanets:kepler22b_planks:4>]);
+            recipes.remove("extraplanets:crafting_table_alt", <minecraft:crafting_table> * 2, [<extraplanets:kepler22b_planks:4>, <extraplanets:kepler22b_planks:4>, <extraplanets:kepler22b_planks:4>, <extraplanets:kepler22b_planks:4>]);
+            recipes.remove("extraplanets:crafting_table", <minecraft:crafting_table> * 2, [<extraplanets:kepler22b_planks:4>, <extraplanets:kepler22b_planks:4>, <extraplanets:kepler22b_planks:4>, <extraplanets:kepler22b_planks:4>]);

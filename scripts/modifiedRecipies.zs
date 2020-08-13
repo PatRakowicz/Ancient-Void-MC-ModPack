@@ -1,8 +1,9 @@
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
+import crafttweaker.oredict.IOreDictEntry;
+
 
 //Materials And Items Added
-
         val diaBl = <minecraft:diamond_block>; //Diamond Block
         val diaSword = <minecraft:diamond_sword>; //Diamond Sword
         val treatStick = <immersiveengineering:material>; //Treated Stick
@@ -23,47 +24,40 @@ import crafttweaker.item.IIngredient;
         val toolStation = <tconstruct:tooltables:3>; //Tool Station
         val toolForge = <tconstruct:toolforge>.withTag({textureBlock: {id: "thermalfoundation:storage_alloy", Count: 1 as byte, Damage: 0 as short}}); //Tool Forge
         val sButton = <minecraft:stone_button>; //Stone Button
-//Craftable Tools
-    
-    //Diamond Pickaxe
 
+//Craftable Tools
+    //Diamond Pickaxe
             recipes.addShaped("Diamond Pickaxe", diaPick,
             [[diamond, diaBl, diamond],
             [null, treatStick, null],
             [null, treatStick, null]]);
 
     //Diamond Axe
-
             recipes.addShaped("Diamond Axe", diaAxe,
             [[null, diamond, diaBl],
             [null, treatStick, diamond],
             [null, treatStick, null]]);
 
     //Diamond Shovel
-
             recipes.addShaped("Diamond Shovel", diaShovel,
             [[null, diaBl, null],
             [null, treatStick, null],
             [null, treatStick, null]]);
 
     //Diamond Hoe
-
             recipes.addShaped("Diamond Hoe", diaHoe,
             [[null, diaBl, diamond],
             [null, treatStick, null],
             [null, treatStick, null]]);
 
     //Diamond Sword
-
             recipes.addShaped("Diamond Sword", diaSword,
             [[null, diamond, null],
              [null, diaBl, null],
              [null, treatStick, null]]);
     
 //Vanilla
-
        //Wood Recipies
-         
             //Wood Planks
                 recipes.addShapeless(<minecraft:planks> * 2, [<minecraft:log>]);
                 recipes.addShapeless(<minecraft:planks:5> * 2, [<minecraft:log2:1>]);
@@ -73,13 +67,11 @@ import crafttweaker.item.IIngredient;
                 recipes.addShapeless(<minecraft:planks:4> * 2, [<minecraft:log2>]);
       
             //Sticks
-                
                 recipes.addShapedMirrored("Sticks", <minecraft:stick> * 2,
                 [[plank, null],
                  [plank, null]]);
 
             //Chests
-
                 recipes.addShaped("Chest", <minecraft:chest>,
                 [[log, plank, log],
                  [plank, sButton, plank],
@@ -88,36 +80,29 @@ import crafttweaker.item.IIngredient;
 
         
 //Modded
-
     //Tinkers Construct
-
             //Crafting Station
-
                     recipes.addShaped("Crafting Bench", <tconstruct:tooltables>,
                     [[null, stick, null],
                     [stick, slabCraft, stick],
                     [null, stick, null]]);
             
             //Tool Station
-
                     recipes.addShaped("Tool Station", <tconstruct:tooltables:3>,
                     [[pattern, null],
                      [craftingStation, null]]);
 
             //Crafting Station Slab
-
                     recipes.addShapeless("Tool Station Slab", <slabmachines:crafting_station_slab>,
                     [craftingStation]);
 
             //Tool Forges
-
                     recipes.addShaped("Tool Forge", toolForge,
                     [[searedBrick, searedBrick, searedBrick],
                      [steelBlock, toolStation, steelBlock],
                      [steelBlock, null, steelBlock]]);
 
             //Pattern
-
                     recipes.addShapedMirrored("Pattern", <tconstruct:pattern>,
                     [[log, plank],
                      [plank, log]]);
@@ -125,6 +110,3 @@ import crafttweaker.item.IIngredient;
 
     //Aether
                     recipes.addShapeless(<aether:skyroot_planks> * 2, [<aether:skyroot_log>]);
-
-
-        
