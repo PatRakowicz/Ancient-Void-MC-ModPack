@@ -86,5 +86,4 @@ import crafttweaker.oredict.IOreDictEntry;
 
     //@slabmachines
             recipe.remove(<slabmachines:tool_station_slab>); //Tool Station Slab
-
-            //Fucking bitch
+            
