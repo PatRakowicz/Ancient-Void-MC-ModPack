@@ -56,14 +56,14 @@ import crafttweaker.oredict.IOreDictEntry;
         
         //Wood & Planks
             val woodPlanks = [
-                <minecraft:planks:*>,
-                <biomesoplenty:planks_0:*>,
-                <extrautils2:ironwood_planks:*>,
-                <rustic:planks:*>,
-                    ] as IItemStack[]; 
-                        for woodPlanks in woodPlanks {
-                            recipes.remove(woodPlanks);
-                        }
+                    <minecraft:planks:*>,
+                    <biomesoplenty:planks_0:*>,
+                    <extrautils2:ironwood_planks:*>,
+                    <rustic:planks:*>,
+                            ] as IItemStack[]; 
+                            for woodPlanks in woodPlanks {
+                                recipes.remove(woodPlanks);
+                            }
         
         //Chests
                 val chestWood = <ore:chest>;
@@ -82,6 +82,8 @@ import crafttweaker.oredict.IOreDictEntry;
                 recipes.remove(<minecraft:dispenser>);
         //Dispenser
                 recipes.remove(<minecraft:dropper>);
+        //Crafting Table
+                recipes.remove(<minecraft:crafting_table>);
         
     //@tconstruct   
         //Crafting Tables
@@ -95,8 +97,3 @@ import crafttweaker.oredict.IOreDictEntry;
 
     //@slabmachines
             recipe.remove(<slabmachines:tool_station_slab>); //Tool Station Slab
-    
-    
-    //@extraplanets
-        //Crafting Table
-            recipes.removeShapeless(<minecraft:crafting_table>, <extraplanets:kepler22b_planks:*>, true);

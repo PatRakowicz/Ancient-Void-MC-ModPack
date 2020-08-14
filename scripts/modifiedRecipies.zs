@@ -143,6 +143,11 @@
                  [compressedCobble, cloth, compressedCobble],
                  [compressedCobble, redAlloy, compressedCobble]]);
 
+           //Crafting Table
+                recipes.addShaped("Crafting Table", <minecraft:crafting_table>,
+                [[plank, plank],
+                 [plank, plank]]);
+
         
 //Modded
 
