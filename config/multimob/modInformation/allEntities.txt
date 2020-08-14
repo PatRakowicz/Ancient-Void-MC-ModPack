@@ -237,8 +237,8 @@ cyclicmagic:magic_missile
 cyclicmagic:boomerang
 cyclicmagic:slingshot_bullet
 enderio:falling_machine
-enderio:primed_charge
 enderio:owl_egg
+enderio:primed_charge
 tconstruct:blueslime
 tconstruct:indestructible
 tconstruct:arrow
