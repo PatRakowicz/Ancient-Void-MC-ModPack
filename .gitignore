@@ -5,6 +5,8 @@ llibrary/
 logs/
 minecraftinstance.json
 mods/
+downloads/
+assets/
 resourcepacks/
 saves/
 valkyrielib/
@@ -26,3 +28,4 @@ splash.properties
 *.gz
 config/InvTweaks.cfg
 config/ichunutil.cfg
+orbis/
