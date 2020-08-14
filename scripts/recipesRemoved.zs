@@ -54,17 +54,6 @@ import crafttweaker.oredict.IOreDictEntry;
                                 recipes.remove(tools);
                             }
         
-        //Wood & Planks
-            val woodPlanks = [
-                    <minecraft:planks:*>,
-                    <biomesoplenty:planks_0:*>,
-                    <extrautils2:ironwood_planks:*>,
-                    <rustic:planks:*>,
-                            ] as IItemStack[]; 
-                            for woodPlanks in woodPlanks {
-                                recipes.remove(woodPlanks);
-                            }
-        
         //Chests
                 val chestWood = <ore:chest>;
                     recipes.remove(chestWood);
