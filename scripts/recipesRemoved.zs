@@ -113,10 +113,6 @@ import crafttweaker.oredict.IOreDictEntry;
             recipes.remove(<tconstruct:tooltables:1>); //Stencil Table
             recipes.remove(<tconstruct:tooltables:4>); //Pattern Chest
             recipes.remove(<tconstruct:toolforge>);    //Tool Forge
-    
-    //@slabmachines
-        //Crafting Station
-            recipes.remove(<slabmachines:workbench_slab>);
 
     //@extraplanets
         //Crafting Table
