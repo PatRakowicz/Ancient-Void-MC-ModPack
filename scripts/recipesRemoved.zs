@@ -106,7 +106,8 @@ import crafttweaker.oredict.IOreDictEntry;
         
     //@tconstruct   
         //Crafting Tables
-            //recipes.remove(<tconstruct:pattern>);      //Pattern
+            recipes.remove(<tconstruct:pattern>);      //Pattern
+            //test FUCK THIS SHIT
             recipes.remove(<tconstruct:tooltables>);   //Crafting Station
             recipes.remove(<tconstruct:tooltables:3>); //Tool Station
             recipes.remove(<tconstruct:tooltables:2>); //Part Builder
