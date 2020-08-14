@@ -24,3 +24,5 @@ splash.properties
 *.nbt
 *.errored
 *.gz
+config/InvTweaks.cfg
+config/ichunutil.cfg
