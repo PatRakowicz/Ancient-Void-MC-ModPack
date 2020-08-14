@@ -27,7 +27,9 @@
         val compressedCobble = <extrautils2:compressedcobblestone>; //9x Compessed Cobblestone
         val cobblestone = <minecraft:cobblestone>; //Cobblestone
         val chest = <minecraft:chest>; //Chest
-        val ironPlate = <ore:plateIron>; //Ore Dict Iron Plate        
+        val ironPlate = <ore:plateIron>; //Ore Dict Iron Plate
+        val paper = <minecraft:paper>; // Paper
+        val hopper = <minecraft:hopper> //Hopper
 //Craftable Tools
     
     //Diamond Pickaxe
@@ -112,7 +114,7 @@
            //Dispenser
                 recipes.addShaped("Dispenser", <minecraft:dispenser>,
                 [[compressedCobble, compressedCobble, compressedCobble],
-                 [compressedCobble, cloth, compressedCobble],
+                 [compressedCobble, hopper, compressedCobble],
                  [compressedCobble, redAlloy, compressedCobble]]);
 
            //Crafting Table
