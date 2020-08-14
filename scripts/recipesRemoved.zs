@@ -114,6 +114,10 @@ import crafttweaker.oredict.IOreDictEntry;
             recipes.remove(<tconstruct:tooltables:4>); //Pattern Chest
             recipes.remove(<tconstruct:toolforge>);    //Tool Forge
 
+    //@slabmachines
+            recipe.remove(<slabmachines:tool_station_slab>); //Tool Station Slab
+    
+    
     //@extraplanets
         //Crafting Table
             recipes.removeShapeless(<minecraft:crafting_table>, <extraplanets:kepler22b_planks:*>, true);
