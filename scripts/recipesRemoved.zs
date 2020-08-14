@@ -56,31 +56,10 @@ import crafttweaker.oredict.IOreDictEntry;
         
         //Wood & Planks
             val woodPlanks = [
-                <minecraft:planks>,
-                <biomesoplenty:planks_0:15>,
-                <minecraft:planks:1>,
-                <minecraft:planks:2>,
-                <rustic:planks:1>,
-                <minecraft:planks:3>,
-                <minecraft:planks:4>,
-                <minecraft:planks:5>,
-                <biomesoplenty:planks_0>,
-                <biomesoplenty:planks_0:1>,
-                <biomesoplenty:planks_0:2>,
-                <biomesoplenty:planks_0:3>,
-                <biomesoplenty:planks_0:4>,
-                <biomesoplenty:planks_0:5>,
-                <biomesoplenty:planks_0:6>,
-                <biomesoplenty:planks_0:7>,
-                <biomesoplenty:planks_0:8>,
-                <biomesoplenty:planks_0:9>,
-                <biomesoplenty:planks_0:10>,
-                <biomesoplenty:planks_0:11>,
-                <biomesoplenty:planks_0:13>,
-                <biomesoplenty:planks_0:14>,
-                <extrautils2:ironwood_planks:1>,
-                <extrautils2:ironwood_planks>,
-                <rustic:planks>
+                <minecraft:planks:*>,
+                <biomesoplenty:planks_0:*>,
+                <extrautils2:ironwood_planks:*>,
+                <rustic:planks:*>,
                     ] as IItemStack[]; 
                         for woodPlanks in woodPlanks {
                             recipes.remove(woodPlanks);
