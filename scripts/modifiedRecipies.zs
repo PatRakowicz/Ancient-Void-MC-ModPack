@@ -112,7 +112,18 @@
                 recipes.addShaped("Bucket", <minecraft:bucket>, 
                 [[ironPlate, null, ironPlate],
                  [null, ironPlate, null]]);
+        
+           //Dropper
+                recipes.addShaped("Dropper", <minecraft:dropper>,
+                [[compressedCobble, compressedCobble, compressedCobble],
+                 [compressedCobble, null, compressedCobble],
+                 [compressedCobble, redAlloy, compressedCobble]]);
 
+           //Dispenser
+                recipes.addShaped("Dispenser", <minecraft:dispenser>,
+                [[compressedCobble, compressedCobble, compressedCobble],
+                 [compressedCobble, cloth, compressedCobble],
+                 [compressedCobble, redAlloy, compressedCobble]]);
 
         
 //Modded

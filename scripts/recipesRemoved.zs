@@ -99,6 +99,10 @@ import crafttweaker.oredict.IOreDictEntry;
                 recipes.remove(<minecraft:hopper>);
         //Bucket
                 recipes.remove(<minecraft:bucket>);
+        //Dropper
+                recipes.remove(<minecraft:dispenser>);
+        //Dispenser
+                recipes.remove(<minecraft:dropper>);
         
     //@tconstruct   
         //Crafting Tables
