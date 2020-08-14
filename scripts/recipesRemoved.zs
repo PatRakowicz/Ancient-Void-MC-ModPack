@@ -116,7 +116,7 @@ import crafttweaker.oredict.IOreDictEntry;
     
     //@slabmachines
         //Crafting Station
-            recipes.remove(<slabmachines:workbench_slab>);
+            //recipes.remove(<slabmachines:workbench_slab>);
 
     //@extraplanets
         //Crafting Table
