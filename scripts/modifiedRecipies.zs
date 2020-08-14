@@ -29,7 +29,7 @@
         val chest = <minecraft:chest>; //Chest
         val ironPlate = <ore:plateIron>; //Ore Dict Iron Plate
         val paper = <minecraft:paper>; // Paper
-        val hopper = <minecraft:hopper> //Hopper
+        val hopper = <minecraft:hopper>; //Hopper
 //Craftable Tools
     
     //Diamond Pickaxe
