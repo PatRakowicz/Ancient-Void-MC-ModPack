@@ -58,7 +58,7 @@
              [null, treatStick, null],
              [null, treatStick, null]]);
 
-    //Diamond Sword ETA
+    //Diamond Sword
 
             recipes.addShaped("Diamond Sword", diaSword,
             [[null, diamond, null],
