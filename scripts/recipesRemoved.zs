@@ -120,5 +120,4 @@ import crafttweaker.oredict.IOreDictEntry;
 
     //@extraplanets
         //Crafting Table
-        //test line - This is a test
-            //recipes.removeShapeless(<minecraft:crafting_table>, [[<extraplanets:kepler22b_planks:2>], [<extraplanets:kepler22b_planks:2>], [<extraplanets:kepler22b_planks:2>], [<extraplanets:kepler22b_planks:2>]]);
+            recipes.removeShapeless(<minecraft:crafting_table>, <extraplanets:kepler22b_planks:*>, true);
