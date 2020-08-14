@@ -32,7 +32,7 @@
     
     //Diamond Pickaxe
 
-            recipes.addShaped("Diamond Picaxe", diaPick,
+            recipes.addShaped("Diamond Pickaxe", diaPick,
             [[diamond, diaBl, diamond],
              [null, treatStick, null],
              [null, treatStick, null]]);
