@@ -10,6 +10,9 @@ saves/
 valkyrielib/
 .mixin.out/
 Ancient-Void-MC-ModPack/
+Server_Items/
+Dev/
+.github/
 .curseclient
 *.json
 *.xml
