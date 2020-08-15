@@ -74,21 +74,21 @@ import crafttweaker.oredict.IOreDictEntry;
         //Crafting Table
                 recipes.remove(<minecraft:crafting_table>);
 
-    //@mekanism
+//@modded
 
-        //Circuits
-                
+    //Circuits
+                recipes.remove(<ic2:crafting:*>);
+                recipes.remove(<mekanism:controlcircuit:1>);
+                recipes.remove(<mekanism:controlcircuit:2>);
+                recipes.remove(<mekanism:controlcircuit:3>);
         
     //@tconstruct   
-        //Crafting Tables
-            recipes.remove(<tconstruct:pattern>);      //Pattern
-            recipes.remove(<tconstruct:tooltables>);   //Crafting Station
-            recipes.remove(<tconstruct:tooltables:3>); //Tool Station
-            recipes.remove(<tconstruct:tooltables:2>); //Part Builder
-            recipes.remove(<tconstruct:tooltables:1>); //Stencil Table
-            recipes.remove(<tconstruct:tooltables:4>); //Pattern Chest
-            recipes.remove(<tconstruct:toolforge>);    //Tool Forge
+            //Crafting Tables
+                recipes.remove(<tconstruct:pattern>);      //Pattern
+                recipes.remove(<tconstruct:tooltables>);   //Crafting Station
+                recipes.remove(<tconstruct:tooltables:3>); //Tool Station
+                recipes.remove(<tconstruct:toolforge:*>);  //Tool Forge
 
     //@slabmachines
-            //recipe.remove(<slabmachines:tool_station_slab>); //Tool Station Slab
+                recipe.remove(<slabmachines:tool_station_slab>); //Tool Station Slab
             
