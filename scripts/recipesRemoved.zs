@@ -85,5 +85,5 @@ import crafttweaker.oredict.IOreDictEntry;
             recipes.remove(<tconstruct:toolforge>);    //Tool Forge
 
     //@slabmachines
-            recipe.remove(<slabmachines:tool_station_slab>); //Tool Station Slab
+            //recipe.remove(<slabmachines:tool_station_slab>); //Tool Station Slab
             
