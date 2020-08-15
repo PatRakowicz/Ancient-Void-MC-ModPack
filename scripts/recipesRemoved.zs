@@ -73,6 +73,11 @@ import crafttweaker.oredict.IOreDictEntry;
                 recipes.remove(<minecraft:dropper>);
         //Crafting Table
                 recipes.remove(<minecraft:crafting_table>);
+
+    //@mekanism
+
+        //Circuits
+                
         
     //@tconstruct   
         //Crafting Tables
