@@ -78,9 +78,8 @@ import crafttweaker.oredict.IOreDictEntry;
 
     //Circuits
                 recipes.remove(<ic2:crafting:*>);
-                recipes.remove(<mekanism:controlcircuit:1>);
-                recipes.remove(<mekanism:controlcircuit:2>);
-                recipes.remove(<mekanism:controlcircuit:3>);
+                recipes.remove(<mekanism:controlcircuit:*>);
+                furnace.remove(<projectred-core:resource_item>);
         
     //@tconstruct   
             //Crafting Tables
@@ -90,5 +89,5 @@ import crafttweaker.oredict.IOreDictEntry;
                 recipes.remove(<tconstruct:toolforge:*>);  //Tool Forge
 
     //@slabmachines
-                recipe.remove(<slabmachines:tool_station_slab>); //Tool Station Slab
+                recipes.remove(<slabmachines:tool_station_slab>); //Tool Station Slab
             
