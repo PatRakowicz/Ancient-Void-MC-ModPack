@@ -168,7 +168,7 @@
                      [null, stick, null]]);
             
             //Tool Station
-                    recipes.addShaped("Tool Station", <tconstruct:tooltables:3>,
+                    recipes.addShapedMirrored("Tool Station", <tconstruct:tooltables:3>,
                     [[pattern, null],
                      [craftingStation, null]]);
 
