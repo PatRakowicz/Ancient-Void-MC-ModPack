@@ -90,4 +90,5 @@ import crafttweaker.oredict.IOreDictEntry;
 
     //@slabmachines
                 recipes.remove(<slabmachines:tool_station_slab>); //Tool Station Slab
+                recipes.remove(<slabmachines:crafting_station_slab>); //Crafting Station Slab
             
