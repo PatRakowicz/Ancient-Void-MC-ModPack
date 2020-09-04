@@ -39,7 +39,11 @@
         val copperCable = <ic2:cable>.withTag({type: 0 as byte, insulation: 1 as byte}); //Copper Cable
         val electrum = <ore:ingotElectrum>; //Electrum Ingot
         val conductanceCoil = <thermalfoundation:material:515>; //Conductance Coil
-        val pyroDust = <thermalfoundation:material:1024>; //Pyrotheum Dust
+        val pyroDust = <thermalfoundation:material:1024>; //Pyrotheum Dustd
+        val clay = <ore:clay>; //Clay 
+        val gravel = <ore:gravel>; //Gravel
+        val sand = <ore:sand>; //Sand
+        val water = <ore:listAllwater>; //Water Bucket
 //Craftable Tools
     
     //Diamond Pickaxe
@@ -160,21 +164,11 @@
                  [redAlloy, pyroDust, redAlloy]]);
 
     //Tinkers Construct
-
-            //Crafting Station
-                    recipes.addShaped("Crafting Bench", <tconstruct:tooltables>,
-                    [[null, stick, null],
-                     [stick, slabCraft, stick],
-                     [null, stick, null]]);
             
             //Tool Station
-                    recipes.addShaped("Tool Station", <tconstruct:tooltables:3>,
+                    recipes.addShapedMirrored("Tool Station", <tconstruct:tooltables:3>,
                     [[pattern, null],
                      [craftingStation, null]]);
-
-            //Crafting Station Slab
-                    recipes.addShapeless("Tool Station Slab", <slabmachines:crafting_station_slab>,
-                    [craftingStation]);
 
             //Tool Forges
                     recipes.addShaped("Tool Forge", toolForge,
@@ -186,6 +180,11 @@
                     recipes.addShapedMirrored("Pattern", <tconstruct:pattern>,
                     [[log, plank],
                      [plank, log]]);
+        
+            //Grout
+                    recipes.addShapedMirrored("Grout", <tconstruct:soil>,
+                    [[gravel, clay],
+                     [sand, water]]);
 
 
     //Aether

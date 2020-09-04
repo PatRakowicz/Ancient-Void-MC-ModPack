@@ -84,11 +84,14 @@ import crafttweaker.oredict.IOreDictEntry;
     //@tconstruct   
             //Crafting Tables
                 recipes.remove(<tconstruct:pattern>);      //Pattern
-                recipes.remove(<tconstruct:tooltables>);   //Crafting Station
                 recipes.remove(<tconstruct:tooltables:3>); //Tool Station
                 recipes.remove(<tconstruct:toolforge:*>);  //Tool Forge
+                recipes.remove(<tconstruct:soil>); //Grout
+
+    //@industrialcraft 2 
+                recipes.remove(<ic2:te:111>); //Wooden Storage Box
 
     //@slabmachines
                 recipes.remove(<slabmachines:tool_station_slab>); //Tool Station Slab
-                recipes.remove(<slabmachines:crafting_station_slab>); //Crafting Station Slab
+                recipes.remove(<slabmachines:workbench_slab>); //Crafting Table Slab
             
