@@ -470,7 +470,7 @@ minecraft:chest_minecart, Minecart with Chest
 minecraft:furnace_minecart, Minecart with Furnace
 minecraft:egg, Egg
 minecraft:compass, Compass
-minecraft:fishing_rod, Wooden Fishing Rod
+minecraft:fishing_rod, Fishing Rod
 minecraft:clock, Clock
 minecraft:glowstone_dust, Glowstone Dust
 minecraft:fish:0, Raw Fish
@@ -649,78 +649,6 @@ ae2stuff:inscriber, Advanced Inscriber
 ae2stuff:wireless, Wireless Connector
 ae2stuff:wireless_kit, Wireless Setup Kit
 ae2stuff:visualiser, Network Visualisation Tool
-aquaculture:fishing_rod, Wooden Fishing Rod
-aquaculture:iron_fishing_rod, Iron Fishing Rod
-aquaculture:gold_fishing_rod, Golden Fishing Rod
-aquaculture:diamond_fishing_rod, Diamond Fishing Rod
-aquaculture:admin_fishing_rod, Admin Fishing Rod
-aquaculture:loot:0, Driftwood
-aquaculture:loot:1, Neptunium Ingot
-aquaculture:loot:2, Tin Can
-aquaculture:loot:3, Message In A Bottle
-aquaculture:loot:4, Box
-aquaculture:loot:5, Lockbox
-aquaculture:loot:6, Treasure Chest
-aquaculture:loot:7, Neptune's Bounty
-aquaculture:food:0, Seaweed
-aquaculture:food:1, Algae
-aquaculture:food:2, Raw Whale Steak
-aquaculture:food:3, Raw Fish Fillet
-aquaculture:food:4, Cooked Fish Fillet
-aquaculture:food:5, Cooked Whale Steak
-aquaculture:food:6, Cooked Whale Burger
-aquaculture:food:7, Frog Legs
-aquaculture:food:8, Cooked Frog Legs
-aquaculture:food:9, Turtle Soup
-aquaculture:food:10, Sushi
-aquaculture:neptunium_pickaxe, Neptunium Pickaxe
-aquaculture:neptunium_shovel, Neptunium Shovel
-aquaculture:neptunium_axe, Neptunium Axe
-aquaculture:neptunium_hoe, Neptunium Hoe
-aquaculture:neptunium_sword, Neptunium Sword
-aquaculture:neptunium_helmet, Neptunium Helmet
-aquaculture:neptunium_chestplate, Neptunium Chestplate
-aquaculture:neptunium_leggings, Neptunium Leggings
-aquaculture:neptunium_boots, Neptunium Boots
-aquaculture:fish:0, Bluegill
-aquaculture:fish:1, Perch
-aquaculture:fish:2, Gar
-aquaculture:fish:3, Bass
-aquaculture:fish:4, Muskellunge
-aquaculture:fish:5, Brown Trout
-aquaculture:fish:6, Catfish
-aquaculture:fish:7, Carp
-aquaculture:fish:8, Blowfish
-aquaculture:fish:9, Red Grouper
-aquaculture:fish:10, Salmon
-aquaculture:fish:11, Tuna
-aquaculture:fish:12, Sword Fish
-aquaculture:fish:13, Shark
-aquaculture:fish:14, Whale
-aquaculture:fish:15, Squid
-aquaculture:fish:16, Jellyfish
-aquaculture:fish:17, Frog
-aquaculture:fish:18, Turtle
-aquaculture:fish:19, Leech
-aquaculture:fish:20, Pirahna
-aquaculture:fish:21, Electric Eel
-aquaculture:fish:22, Tambaqui
-aquaculture:fish:23, Arapaima
-aquaculture:fish:24, Cod
-aquaculture:fish:25, Pollock
-aquaculture:fish:26, Herring
-aquaculture:fish:27, Halibut
-aquaculture:fish:28, Pink Salmon
-aquaculture:fish:29, Rainbow Trout
-aquaculture:fish:30, Blackfish
-aquaculture:fish:31, Capitaine
-aquaculture:fish:32, Boulti
-aquaculture:fish:33, Bagrid
-aquaculture:fish:34, Syndontis
-aquaculture:fish:35, Red Shrooma
-aquaculture:fish:36, Brown Shrooma
-aquaculture:fish:37, Goldfish
-aquaculture:fish:38, Fish Bones
 avaritia:resource:0, Diamond Lattice
 avaritia:resource:1, Crystal Matrix Ingot
 avaritia:resource:2, Pile of Neutrons
@@ -2760,12 +2688,12 @@ extracells:pattern.fluid:0, ME Fluid Pattern: Iron Wine
 extracells:pattern.fluid:0, ME Fluid Pattern: Mead
 extracells:pattern.fluid:0, ME Fluid Pattern: Wildberry Wine
 extracells:pattern.fluid:0, ME Fluid Pattern: Wine
+extracells:pattern.fluid:0, ME Fluid Pattern: Molten Corruption
 extracells:pattern.fluid:0, ME Fluid Pattern: Plant Oil
 extracells:pattern.fluid:0, ME Fluid Pattern: Ethanol
 extracells:pattern.fluid:0, ME Fluid Pattern: Biodiesel
 extracells:pattern.fluid:0, ME Fluid Pattern: Liquid Concrete
 extracells:pattern.fluid:0, ME Fluid Pattern: Molten Uranium
-extracells:pattern.fluid:0, ME Fluid Pattern: Molten Corruption
 extracells:pattern.fluid:0, ME Fluid Pattern: Nutrient Distillation
 extracells:pattern.fluid:0, ME Fluid Pattern: Dew of the Void
 extracells:pattern.fluid:0, ME Fluid Pattern: Vapor of Levity
@@ -4976,110 +4904,68 @@ thermaldynamics:cover:0, Horsetail Cover
 thermaldynamics:cover:0, Mooncap Mushroom Cover
 thermaldynamics:cover:0, Wind Thistle Cover
 simplyjetpacks:itemjetpack:0, Creative Jetpack
-simplyjetpacks:itemjetpack:1, Iron Jetpack
-simplyjetpacks:itemjetpack:2, Gold Jetpack
-simplyjetpacks:itemjetpack:3, Diamond Jetpack
-simplyjetpacks:itemjetpack:4, Iron Jetpack (Armored)
-simplyjetpacks:itemjetpack:5, Gold Jetpack (Armored)
-simplyjetpacks:itemjetpack:6, Diamond Jetpack (Armored)
-simplyjetpacks:itemjetpack:7, Conductive Iron Jetpack
-simplyjetpacks:itemjetpack:8, Electrical Steel Jetpack
-simplyjetpacks:itemjetpack:9, Energetic Jetpack
-simplyjetpacks:itemjetpack:10, Vibrant Jetpack
-simplyjetpacks:itemjetpack:11, Conductive Iron Jetpack (Armored)
-simplyjetpacks:itemjetpack:12, Electrical Steel Jetpack (Armored)
-simplyjetpacks:itemjetpack:13, Energetic Jetpack (Armored)
-simplyjetpacks:itemjetpack:14, Vibrant Jetpack (Armored)
-simplyjetpacks:itemjetpack:15, Dark Soularium JetPlate
-simplyjetpacks:itemjetpack:16, Leadstone Jetpack
-simplyjetpacks:itemjetpack:17, Hardened Jetpack
-simplyjetpacks:itemjetpack:18, Reinforced Jetpack
-simplyjetpacks:itemjetpack:19, Resonant Jetpack
-simplyjetpacks:itemjetpack:20, Leadstone Jetpack (Armored)
-simplyjetpacks:itemjetpack:21, Hardened Jetpack (Armored)
-simplyjetpacks:itemjetpack:22, Reinforced Jetpack (Armored)
-simplyjetpacks:itemjetpack:23, Resonant Jetpack (Armored)
-simplyjetpacks:itemjetpack:24, Flux-Infused JetPlate
-simplyjetpacks:itemjetpack:26, Basic Jetpack
-simplyjetpacks:itemjetpack:27, Advanced Jetpack
-simplyjetpacks:itemjetpack:28, Elite Jetpack
-simplyjetpacks:itemjetpack:29, Ultimate Jetpack
-simplyjetpacks:itemjetpack:30, Basic Jetpack (Armored)
-simplyjetpacks:itemjetpack:31, Advanced Jetpack (Armored)
-simplyjetpacks:itemjetpack:32, Elite Jetpack (Armored)
-simplyjetpacks:itemjetpack:33, Ultimate Jetpack (Armored)
-simplyjetpacks:itemjetpack:34, Low Voltage Jetpack
-simplyjetpacks:itemjetpack:35, Medium Voltage Jetpack
-simplyjetpacks:itemjetpack:36, High Voltage Jetpack
-simplyjetpacks:itemjetpack:37, Low Voltage Jetpack (Armored)
-simplyjetpacks:itemjetpack:38, Medium Voltage Jetpack (Armored)
-simplyjetpacks:itemjetpack:39, High Voltage Jetpack (Armored)
-simplyjetpacks:itemfluxpack:0, Creative Fluxpack
-simplyjetpacks:itemfluxpack:1, Basic Capacitor Pack
-simplyjetpacks:itemfluxpack:2, Double-Layer Capacitor Pack
-simplyjetpacks:itemfluxpack:3, Octadic Capacitor Pack
-simplyjetpacks:itemfluxpack:4, Basic Capacitor Pack (Armored)
-simplyjetpacks:itemfluxpack:5, Double-Layer Capacitor Pack (Armored)
-simplyjetpacks:itemfluxpack:6, Octadic Capacitor Pack (Armored)
-simplyjetpacks:itemfluxpack:7, Leadstone Fluxpack
-simplyjetpacks:itemfluxpack:8, Hardened Fluxpack
-simplyjetpacks:itemfluxpack:9, Reinforced Fluxpack
-simplyjetpacks:itemfluxpack:10, Resonant Fluxpack
-simplyjetpacks:itemfluxpack:11, Leadstone Fluxpack (Armored)
-simplyjetpacks:itemfluxpack:12, Hardened Fluxpack (Armored)
-simplyjetpacks:itemfluxpack:13, Reinforced Fluxpack (Armored)
-simplyjetpacks:itemfluxpack:14, Resonant Fluxpack (Armored)
+simplyjetpacks:itemjetpack:1, Conductive Iron Jetpack
+simplyjetpacks:itemjetpack:2, Electrical Steel Jetpack
+simplyjetpacks:itemjetpack:3, Energetic Jetpack
+simplyjetpacks:itemjetpack:4, Vibrant Jetpack
+simplyjetpacks:itemjetpack:5, Conductive Iron Jetpack (Armored)
+simplyjetpacks:itemjetpack:6, Electrical Steel Jetpack (Armored)
+simplyjetpacks:itemjetpack:7, Energetic Jetpack (Armored)
+simplyjetpacks:itemjetpack:8, Vibrant Jetpack (Armored)
+simplyjetpacks:itemjetpack:9, Dark Soularium JetPlate
+simplyjetpacks:itemjetpack:10, Leadstone Jetpack
+simplyjetpacks:itemjetpack:11, Hardened Jetpack
+simplyjetpacks:itemjetpack:12, Reinforced Jetpack
+simplyjetpacks:itemjetpack:13, Resonant Jetpack
+simplyjetpacks:itemjetpack:14, Leadstone Jetpack (Armored)
+simplyjetpacks:itemjetpack:15, Hardened Jetpack (Armored)
+simplyjetpacks:itemjetpack:16, Reinforced Jetpack (Armored)
+simplyjetpacks:itemjetpack:17, Resonant Jetpack (Armored)
+simplyjetpacks:itemjetpack:18, Flux-Infused JetPlate
 simplyjetpacks:metaitem:0, Particle Customizer (Default)
 simplyjetpacks:metaitem:1, Particle Customizer (None)
-simplyjetpacks:metaitem:2, Particle Customizer (Smoke)
-simplyjetpacks:metaitem:3, Particle Customizer (Rainbow)
+simplyjetpacks:metaitem:2, Particle Customizer (Smoke Only)
+simplyjetpacks:metaitem:3, Particle Customizer (Rainbow Smoke)
 simplyjetpacks:metaitem:4, Leather Strap
-simplyjetpacks:metaitemmods:0, Iron Thruster
-simplyjetpacks:metaitemmods:1, Gold Thruster
-simplyjetpacks:metaitemmods:2, Diamond Thruster
-simplyjetpacks:metaitemmods:3, Silicon Armor Plating
-simplyjetpacks:metaitemmods:4, Conductive Iron Armor Plating
-simplyjetpacks:metaitemmods:5, Electrical Steel Armor Plating
-simplyjetpacks:metaitemmods:6, Dark Steel Armor Plating
+simplyjetpacks:metaitemmods:3, Dark Soularium Ingot
+simplyjetpacks:metaitemmods:4, Reinforced Glider Wing
+simplyjetpacks:metaitemmods:5, Flight Control Unit (Empty)
+simplyjetpacks:metaitemmods:6, Flight Control Unit
 simplyjetpacks:metaitemmods:7, Conductive Iron Thruster
 simplyjetpacks:metaitemmods:8, Electrical Steel Thruster
 simplyjetpacks:metaitemmods:9, Energetic Thruster
 simplyjetpacks:metaitemmods:10, Vibrant Thruster
 simplyjetpacks:metaitemmods:11, Dark Soularium Thruster
-simplyjetpacks:metaitemmods:12, Dark Soularium Ingot
-simplyjetpacks:metaitemmods:13, Reinforced Glider Wing
-simplyjetpacks:metaitemmods:14, Flight Control Unit (Empty)
-simplyjetpacks:metaitemmods:15, Flight Control Unit
-simplyjetpacks:metaitemmods:31, Basic Armor Plating
-simplyjetpacks:metaitemmods:32, Advanced Armor Plating
-simplyjetpacks:metaitemmods:33, Elite Armor Plating
-simplyjetpacks:metaitemmods:34, Ultimate Armor Plating
-simplyjetpacks:metaitemmods:35, Basic Thruster
-simplyjetpacks:metaitemmods:36, Advanced Thruster
-simplyjetpacks:metaitemmods:37, Elite Thruster
-simplyjetpacks:metaitemmods:38, Ultimate Thruster
-simplyjetpacks:metaitemmods:39, Tough Fabric Padding
-simplyjetpacks:metaitemmods:40, Iron Armor Plating
-simplyjetpacks:metaitemmods:41, Steel Armor Plating
-simplyjetpacks:metaitemmods:42, Low Voltage Thruster
-simplyjetpacks:metaitemmods:43, Medium Voltage Thruster
-simplyjetpacks:metaitemmods:44, High Voltage Thruster
-simplyjetpacks:metaitemmods:16, Iron Armor Plating
-simplyjetpacks:metaitemmods:17, Bronze Armor Plating
-simplyjetpacks:metaitemmods:18, Invar Armor Plating
-simplyjetpacks:metaitemmods:19, Enderium Armor Plating
-simplyjetpacks:metaitemmods:20, Leadstone Thruster
-simplyjetpacks:metaitemmods:21, Hardened Thruster
-simplyjetpacks:metaitemmods:22, Reinforced Thruster
-simplyjetpacks:metaitemmods:23, Resonant Thruster
-simplyjetpacks:metaitemmods:24, Fluxed Thruster
-simplyjetpacks:metaitemmods:25, Flux-Infused Chestplate Assembly
-simplyjetpacks:metaitemmods:26, Fluxed Armor Plating
-simplyjetpacks:metaitemmods:27, Glowstone Elevation Unit (Empty)
-simplyjetpacks:metaitemmods:28, Glowstone Elevation Unit
-simplyjetpacks:metaitemmods:29, Cryotheum Coolant Unit (Empty)
-simplyjetpacks:metaitemmods:30, Cryotheum Coolant Unit
-simplyjetpacks:pilot_goggles, Pilot Goggles
+simplyjetpacks:metaitemmods:12, Silicon Armor Plating
+simplyjetpacks:metaitemmods:13, Conductive Iron Armor Plating
+simplyjetpacks:metaitemmods:14, Electrical Steel Armor Plating
+simplyjetpacks:metaitemmods:15, Dark Steel Armor Plating
+simplyjetpacks:metaitemmods:16, Fluxed Armor Plating
+simplyjetpacks:metaitemmods:17, Flux-Infused Chestplate Assembly
+simplyjetpacks:metaitemmods:18, Glowstone Elevation Unit (Empty)
+simplyjetpacks:metaitemmods:19, Glowstone Elevation Unit
+simplyjetpacks:metaitemmods:20, Cryotheum Coolant Unit (Empty)
+simplyjetpacks:metaitemmods:21, Cryotheum Coolant Unit
+simplyjetpacks:metaitemmods:22, Iron Armor Plating
+simplyjetpacks:metaitemmods:23, Bronze Armor Plating
+simplyjetpacks:metaitemmods:24, Invar Armor Plating
+simplyjetpacks:metaitemmods:25, Enderium Armor Plating
+simplyjetpacks:metaitemmods:26, Leadstone Thruster
+simplyjetpacks:metaitemmods:27, Hardened Thruster
+simplyjetpacks:metaitemmods:28, Reinforced Thruster
+simplyjetpacks:metaitemmods:29, Resonant Thruster
+simplyjetpacks:metaitemmods:30, Fluxed Thruster
+simplyjetpacks:itemfluxpack:0, Creative Flux Pack
+simplyjetpacks:itemfluxpack:1, Basic Capacitor Pack
+simplyjetpacks:itemfluxpack:2, Capacitor Pack
+simplyjetpacks:itemfluxpack:3, Vibrant Capacitor Pack
+simplyjetpacks:itemfluxpack:4, Capacitor Pack (Armored)
+simplyjetpacks:itemfluxpack:5, Vibrant Capacitor Pack (Armored)
+simplyjetpacks:itemfluxpack:6, Leadstone Flux Pack
+simplyjetpacks:itemfluxpack:7, Reinforced Flux Pack
+simplyjetpacks:itemfluxpack:8, Resonant Flux Pack
+simplyjetpacks:itemfluxpack:9, Reinforced Flux Pack (Armored)
+simplyjetpacks:itemfluxpack:10, Resonant Flux Pack (Armored)
 chisel:blockaluminum:0, Block of Aluminum
 chisel:blockaluminum:1, Block of Aluminum
 chisel:blockaluminum:2, Block of Aluminum
@@ -11112,166 +10998,6 @@ appliedenergistics2:part:220, ME Storage Bus
 appliedenergistics2:part:400, ME Storage Monitor
 appliedenergistics2:part:380, ME Terminal
 appliedenergistics2:part:80, ME Toggle Bus
-aether:skyroot_door_item, Skyroot Door
-aether:arkenium_door_item, Arkenium Door
-aether:skyroot_sign, Skyroot Sign
-aether:secret_skyroot_door_item, Secret Skyroot Door
-aether:skyroot_bed_item, Skyroot Bed
-aether:skyroot_stick, Skyroot Stick
-aether:valkyrie_wings, Valkyrie Wings
-aether:brettl_cane, Brettl Cane
-aether:brettl_grass, Brettl Grass
-aether:brettl_rope, Brettl Rope
-aether:skyroot_pinecone, Skyroot Pinecone
-aether:golden_amber, Golden Amber
-aether:cloudtwine, Cloudtwine
-aether:moa_feather:0, Moa Feather
-aether:taegore_hide, Taegore Hide
-aether:burrukai_pelt, Burrukai Pelt
-aether:swet_gel:0, Blue Swet Gel
-aether:swet_gel:1, Green Swet Gel
-aether:swet_gel:2, Purple Swet Gel
-aether:swet_sugar, Swet Sugar
-aether:aechor_petal, Aechor Petal
-aether:cockatrice_feather, Cockatrice Feather
-aether:crude_scatterglass_shard, Scatterglass Shard
-aether:ambrosium_shard, Ambrosium Shard
-aether:ambrosium_chunk, Ambrosium Chunk
-aether:icestone, Icestone
-aether:zanite_gemstone, Zanite Gemstone
-aether:arkenium, Arkenium Plate
-aether:arkenium_strip, Arkenium Strip
-aether:gravitite_plate, Gravitite Plate
-aether:scatterglass_vial, Scatterglass Vial
-aether:irradiated_dust, Irradiated Dust
-aether:irradiated_chunk, Irradiated Chunk
-aether:irradiated_tool, Irradiated Tool
-aether:irradiated_sword, Irradiated Sword
-aether:irradiated_armor, Irradiated Armor
-aether:irradiated_ring, Irradiated Ring
-aether:irradiated_neckwear, Irradiated Neckwear
-aether:irradiated_charm, Irradiated Charm
-aether:blueberries, Blueberries
-aether:enchanted_blueberry, Enchanted Blueberry
-aether:orange, Orange
-aether:wyndberry, Wyndberry
-aether:enchanted_wyndberry, Enchanted Wyndberry
-aether:plumproot_mash, Plumproot Mash
-aether:plumproot_pie, Plumproot Pie
-aether:fried_moa_egg, Fried Moa Egg
-aether:skyroot_lizard_stick, Skyroot Lizard on a Stick
-aether:skyroot_lizard_stick_roasted, Roasted Skyroot Lizard on a Stick
-aether:kirrid_loin, Kirrid Loin
-aether:kirrid_cutlet, Kirrid Cutlet
-aether:raw_taegore_meat, Taegore Leg
-aether:taegore_steak, Roast Taegore
-aether:burrukai_rib_cut, Burrukai Rib Joint
-aether:burrukai_ribs, Burrukai Ribs
-aether:swet_jelly:0, Blue Swet Jelly
-aether:swet_jelly:1, Green Swet Jelly
-aether:swet_jelly:2, Purple Swet Jelly
-aether:blueberry_lollipop, Blueberry Lollipop
-aether:orange_lollipop, Orange Lollipop
-aether:candy_corn, Candy Corn
-aether:wrapped_chocolates, Wrapped Chocolates
-aether:jelly_plumproot, Jelly Plumproot
-aether:cocoatrice, Cocoatrice
-aether:candy_cane, Candy Cane
-aether:ginger_bread_man, Gingerbread Man
-aether:icestone_poprocks, Icestone Poprocks
-aether:eggnog, Eggnog
-aether:yule_log, Yule Log
-aether:stomper_pop, Stomper Pop
-aether:healing_stone_depleted, Depleted Healing Stone
-aether:healing_stone, Healing Stone
-aether:bandage, Bandage
-aether:splint, Splint
-aether:water_vial, Water Vial
-aether:antitoxin_vial, Antidote Vial
-aether:antivenom_vial, Antivenom Vial
-aether:valkyrie_tea, Valkyrie Tea
-aether:shard_of_life, Shard of Life
-aether:skyroot_shovel, Skyroot Shovel
-aether:skyroot_pickaxe, Skyroot Pickaxe
-aether:skyroot_axe, Skyroot Axe
-aether:holystone_shovel, Holystone Shovel
-aether:holystone_pickaxe, Holystone Pickaxe
-aether:holystone_axe, Holystone Axe
-aether:zanite_shovel, Zanite Shovel
-aether:zanite_pickaxe, Zanite Pickaxe
-aether:zanite_axe, Zanite Axe
-aether:arkenium_shovel, Arkenium Shovel
-aether:arkenium_pickaxe, Arkenium Pickaxe
-aether:arkenium_axe, Arkenium Axe
-aether:gravitite_shovel, Gravitite Shovel
-aether:gravitite_pickaxe, Gravitite Pickaxe
-aether:gravitite_axe, Gravitite Axe
-aether:arkenium_shears, Arkenium Shears
-aether:dart_shooter:0, Golden Dart Shooter
-aether:dart_shooter:1, Enchanted Dart Shooter
-aether:dart_shooter:2, Poison Dart Shooter
-aether:dart:0, Golden Dart
-aether:dart:1, Enchanted Dart
-aether:dart:2, Poison Dart
-aether:skyroot_sword, Skyroot Sword
-aether:holystone_sword, Holystone Sword
-aether:zanite_sword, Zanite Sword
-aether:arkenium_sword, Arkenium Sword
-aether:gravitite_sword, Gravitite Sword
-aether:bolt, Scatterglass Bolt
-aether:skyroot_crossbow, Skyroot Crossbow
-aether:holystone_crossbow, Holystone Crossbow
-aether:zanite_crossbow, Zanite Crossbow
-aether:arkenium_crossbow, Arkenium Crossbow
-aether:gravitite_crossbow, Gravitite Crossbow
-aether:taegore_hide_helmet, Taegore Hide Hood
-aether:taegore_hide_chestplate, Taegore Hide Jacket
-aether:taegore_hide_leggings, Taegore Hide Leggings
-aether:taegore_hide_boots, Taegore Hide Boots
-aether:taegore_hide_gloves, Taegore Hide Gloves
-aether:skyroot_shield, Skyroot Shield
-aether:burrukai_pelt_helmet, Burrukai Pelt Hood
-aether:burrukai_pelt_chestplate, Burrukai Pelt Jacket
-aether:burrukai_pelt_leggings, Burrukai Pelt Leggings
-aether:burrukai_pelt_boots, Burrukai Pelt Boots
-aether:burrukai_pelt_gloves, Burrukai Pelt Gloves
-aether:holystone_shield, Holystone Shield
-aether:zanite_helmet, Zanite Helmet
-aether:zanite_chestplate, Zanite Chestplate
-aether:zanite_leggings, Zanite Leggings
-aether:zanite_boots, Zanite Boots
-aether:zanite_gloves, Zanite Arm Guards
-aether:zanite_shield, Zanite Shield
-aether:arkenium_helmet, Arkenium Helmet
-aether:arkenium_chestplate, Arkenium Chestplate
-aether:arkenium_leggings, Arkenium Leggings
-aether:arkenium_boots, Arkenium Boots
-aether:arkenium_gloves, Arkenium Gauntlets
-aether:arkenium_shield, Arkenium Shield
-aether:gravitite_helmet, Gravitite Helmet
-aether:gravitite_chestplate, Gravitite Chestplate
-aether:gravitite_leggings, Gravitite Leggings
-aether:gravitite_boots, Gravitite Boots
-aether:gravitite_gloves, Gravitite Gauntlets
-aether:gravitite_shield, Gravitite Shield
-aether:rainbow_moa_egg:0, Rainbow Moa Egg
-aether:aether_saddle, Moa Saddle
-aether:moa_feed, Moa Feed
-aether:moa_feed_blueberries, Blueberry Moa Feed
-aether:moa_feed_enchanted_blueberries, Enchanted Moa Feed
-aether:cloud_parachute, item.aether.cloud_parachute.name
-aether:skyroot_bucket, Skyroot Bucket
-aether:skyroot_water_bucket, Skyroot Water Bucket
-aether:skyroot_milk_bucket, Skyroot Milk Bucket
-aether:skyroot_poison_bucket, Skyroot Poison Bucket
-aether:aerwhale_music_disc, Aerwhale Music Disc
-aether:moa_music_disc, Moa Music Disc
-aether:labyrinth_music_disc, Labyrinth Music Disc
-aether:valkyrie_music_disc, Valkyrie Music Disc
-aether:recording_892, Recording #892
-aether:winter_hat, Winter Hat
-aether:wrapping_paper, Wrapping Paper
-aether:moa_egg_item:0, Moa Egg
 aether:aether_grass:0, Highlands Grass
 aether:aether_grass:1, Enchanted Grass
 aether:aether_grass:2, Arctic Grass
@@ -11572,6 +11298,166 @@ aether:present, Present
 aether:aether_portal, Aether Portal
 aether:brettl_plant:0, tile.aether.brettl_plant.base.name
 aether:wildcard, Wildcard
+aether:skyroot_door_item, Skyroot Door
+aether:arkenium_door_item, Arkenium Door
+aether:skyroot_sign, Skyroot Sign
+aether:secret_skyroot_door_item, Secret Skyroot Door
+aether:skyroot_bed_item, Skyroot Bed
+aether:skyroot_stick, Skyroot Stick
+aether:valkyrie_wings, Valkyrie Wings
+aether:brettl_cane, Brettl Cane
+aether:brettl_grass, Brettl Grass
+aether:brettl_rope, Brettl Rope
+aether:skyroot_pinecone, Skyroot Pinecone
+aether:golden_amber, Golden Amber
+aether:cloudtwine, Cloudtwine
+aether:moa_feather:0, Moa Feather
+aether:taegore_hide, Taegore Hide
+aether:burrukai_pelt, Burrukai Pelt
+aether:swet_gel:0, Blue Swet Gel
+aether:swet_gel:1, Green Swet Gel
+aether:swet_gel:2, Purple Swet Gel
+aether:swet_sugar, Swet Sugar
+aether:aechor_petal, Aechor Petal
+aether:cockatrice_feather, Cockatrice Feather
+aether:crude_scatterglass_shard, Scatterglass Shard
+aether:ambrosium_shard, Ambrosium Shard
+aether:ambrosium_chunk, Ambrosium Chunk
+aether:icestone, Icestone
+aether:zanite_gemstone, Zanite Gemstone
+aether:arkenium, Arkenium Plate
+aether:arkenium_strip, Arkenium Strip
+aether:gravitite_plate, Gravitite Plate
+aether:scatterglass_vial, Scatterglass Vial
+aether:irradiated_dust, Irradiated Dust
+aether:irradiated_chunk, Irradiated Chunk
+aether:irradiated_tool, Irradiated Tool
+aether:irradiated_sword, Irradiated Sword
+aether:irradiated_armor, Irradiated Armor
+aether:irradiated_ring, Irradiated Ring
+aether:irradiated_neckwear, Irradiated Neckwear
+aether:irradiated_charm, Irradiated Charm
+aether:blueberries, Blueberries
+aether:enchanted_blueberry, Enchanted Blueberry
+aether:orange, Orange
+aether:wyndberry, Wyndberry
+aether:enchanted_wyndberry, Enchanted Wyndberry
+aether:plumproot_mash, Plumproot Mash
+aether:plumproot_pie, Plumproot Pie
+aether:fried_moa_egg, Fried Moa Egg
+aether:skyroot_lizard_stick, Skyroot Lizard on a Stick
+aether:skyroot_lizard_stick_roasted, Roasted Skyroot Lizard on a Stick
+aether:kirrid_loin, Kirrid Loin
+aether:kirrid_cutlet, Kirrid Cutlet
+aether:raw_taegore_meat, Taegore Leg
+aether:taegore_steak, Roast Taegore
+aether:burrukai_rib_cut, Burrukai Rib Joint
+aether:burrukai_ribs, Burrukai Ribs
+aether:swet_jelly:0, Blue Swet Jelly
+aether:swet_jelly:1, Green Swet Jelly
+aether:swet_jelly:2, Purple Swet Jelly
+aether:blueberry_lollipop, Blueberry Lollipop
+aether:orange_lollipop, Orange Lollipop
+aether:candy_corn, Candy Corn
+aether:wrapped_chocolates, Wrapped Chocolates
+aether:jelly_plumproot, Jelly Plumproot
+aether:cocoatrice, Cocoatrice
+aether:candy_cane, Candy Cane
+aether:ginger_bread_man, Gingerbread Man
+aether:icestone_poprocks, Icestone Poprocks
+aether:eggnog, Eggnog
+aether:yule_log, Yule Log
+aether:stomper_pop, Stomper Pop
+aether:healing_stone_depleted, Depleted Healing Stone
+aether:healing_stone, Healing Stone
+aether:bandage, Bandage
+aether:splint, Splint
+aether:water_vial, Water Vial
+aether:antitoxin_vial, Antidote Vial
+aether:antivenom_vial, Antivenom Vial
+aether:valkyrie_tea, Valkyrie Tea
+aether:shard_of_life, Shard of Life
+aether:skyroot_shovel, Skyroot Shovel
+aether:skyroot_pickaxe, Skyroot Pickaxe
+aether:skyroot_axe, Skyroot Axe
+aether:holystone_shovel, Holystone Shovel
+aether:holystone_pickaxe, Holystone Pickaxe
+aether:holystone_axe, Holystone Axe
+aether:zanite_shovel, Zanite Shovel
+aether:zanite_pickaxe, Zanite Pickaxe
+aether:zanite_axe, Zanite Axe
+aether:arkenium_shovel, Arkenium Shovel
+aether:arkenium_pickaxe, Arkenium Pickaxe
+aether:arkenium_axe, Arkenium Axe
+aether:gravitite_shovel, Gravitite Shovel
+aether:gravitite_pickaxe, Gravitite Pickaxe
+aether:gravitite_axe, Gravitite Axe
+aether:arkenium_shears, Arkenium Shears
+aether:dart_shooter:0, Golden Dart Shooter
+aether:dart_shooter:1, Enchanted Dart Shooter
+aether:dart_shooter:2, Poison Dart Shooter
+aether:dart:0, Golden Dart
+aether:dart:1, Enchanted Dart
+aether:dart:2, Poison Dart
+aether:skyroot_sword, Skyroot Sword
+aether:holystone_sword, Holystone Sword
+aether:zanite_sword, Zanite Sword
+aether:arkenium_sword, Arkenium Sword
+aether:gravitite_sword, Gravitite Sword
+aether:bolt, Scatterglass Bolt
+aether:skyroot_crossbow, Skyroot Crossbow
+aether:holystone_crossbow, Holystone Crossbow
+aether:zanite_crossbow, Zanite Crossbow
+aether:arkenium_crossbow, Arkenium Crossbow
+aether:gravitite_crossbow, Gravitite Crossbow
+aether:taegore_hide_helmet, Taegore Hide Hood
+aether:taegore_hide_chestplate, Taegore Hide Jacket
+aether:taegore_hide_leggings, Taegore Hide Leggings
+aether:taegore_hide_boots, Taegore Hide Boots
+aether:taegore_hide_gloves, Taegore Hide Gloves
+aether:skyroot_shield, Skyroot Shield
+aether:burrukai_pelt_helmet, Burrukai Pelt Hood
+aether:burrukai_pelt_chestplate, Burrukai Pelt Jacket
+aether:burrukai_pelt_leggings, Burrukai Pelt Leggings
+aether:burrukai_pelt_boots, Burrukai Pelt Boots
+aether:burrukai_pelt_gloves, Burrukai Pelt Gloves
+aether:holystone_shield, Holystone Shield
+aether:zanite_helmet, Zanite Helmet
+aether:zanite_chestplate, Zanite Chestplate
+aether:zanite_leggings, Zanite Leggings
+aether:zanite_boots, Zanite Boots
+aether:zanite_gloves, Zanite Arm Guards
+aether:zanite_shield, Zanite Shield
+aether:arkenium_helmet, Arkenium Helmet
+aether:arkenium_chestplate, Arkenium Chestplate
+aether:arkenium_leggings, Arkenium Leggings
+aether:arkenium_boots, Arkenium Boots
+aether:arkenium_gloves, Arkenium Gauntlets
+aether:arkenium_shield, Arkenium Shield
+aether:gravitite_helmet, Gravitite Helmet
+aether:gravitite_chestplate, Gravitite Chestplate
+aether:gravitite_leggings, Gravitite Leggings
+aether:gravitite_boots, Gravitite Boots
+aether:gravitite_gloves, Gravitite Gauntlets
+aether:gravitite_shield, Gravitite Shield
+aether:rainbow_moa_egg:0, Rainbow Moa Egg
+aether:aether_saddle, Moa Saddle
+aether:moa_feed, Moa Feed
+aether:moa_feed_blueberries, Blueberry Moa Feed
+aether:moa_feed_enchanted_blueberries, Enchanted Moa Feed
+aether:cloud_parachute, item.aether.cloud_parachute.name
+aether:skyroot_bucket, Skyroot Bucket
+aether:skyroot_water_bucket, Skyroot Water Bucket
+aether:skyroot_milk_bucket, Skyroot Milk Bucket
+aether:skyroot_poison_bucket, Skyroot Poison Bucket
+aether:aerwhale_music_disc, Aerwhale Music Disc
+aether:moa_music_disc, Moa Music Disc
+aether:labyrinth_music_disc, Labyrinth Music Disc
+aether:valkyrie_music_disc, Valkyrie Music Disc
+aether:recording_892, Recording #892
+aether:winter_hat, Winter Hat
+aether:wrapping_paper, Wrapping Paper
+aether:moa_egg_item:0, Moa Egg
 alchemistry:electrolyzer, Electrolyzer
 alchemistry:chemical_dissolver, Chemical Dissolver
 alchemistry:chemical_combiner, Chemical Combiner
@@ -13399,34 +13285,34 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
 tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Sign Plate Pattern
 tconstruct:pattern:0, Wide Guard Pattern
 tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Kama Head Pattern
 tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
 tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Large Plate Pattern
 tconstruct:shard:0, Electrical Shard
 tconstruct:shard:0, Energetic Shard
 tconstruct:shard:0, Vibrant Shard
@@ -13467,9 +13353,9 @@ tconstruct:shard:0, Magical Wooden Shard
 tconstruct:shard:0, Evil Infused Shard
 tconstruct:shard:0, Enchanted Shard
 tconstruct:shard:0, Demonic Shard
+tconstruct:shard:0, Corrupted Shard
 tconstruct:shard:0, Treated Wood Shard
 tconstruct:shard:0, Constantan Shard
-tconstruct:shard:0, Corrupted Shard
 tconstruct:sharpening_kit:0, Electrical Sharpening Kit
 tconstruct:sharpening_kit:0, Energetic Sharpening Kit
 tconstruct:sharpening_kit:0, Vibrant Sharpening Kit
@@ -13510,9 +13396,9 @@ tconstruct:sharpening_kit:0, Magical Wooden Sharpening Kit
 tconstruct:sharpening_kit:0, Evil Infused Sharpening Kit
 tconstruct:sharpening_kit:0, Enchanted Sharpening Kit
 tconstruct:sharpening_kit:0, Demonic Sharpening Kit
+tconstruct:sharpening_kit:0, Corrupted Sharpening Kit
 tconstruct:sharpening_kit:0, Treated Wood Sharpening Kit
 tconstruct:sharpening_kit:0, Constantan Sharpening Kit
-tconstruct:sharpening_kit:0, Corrupted Sharpening Kit
 tconstruct:pick_head:0, Electrical Pickaxe Head
 tconstruct:pick_head:0, Energetic Pickaxe Head
 tconstruct:pick_head:0, Vibrant Pickaxe Head
@@ -13553,9 +13439,9 @@ tconstruct:pick_head:0, Magical Wooden Pickaxe Head
 tconstruct:pick_head:0, Evil Infused Pickaxe Head
 tconstruct:pick_head:0, Enchanted Pickaxe Head
 tconstruct:pick_head:0, Demonic Pickaxe Head
+tconstruct:pick_head:0, Corrupted Pickaxe Head
 tconstruct:pick_head:0, Treated Wood Pickaxe Head
 tconstruct:pick_head:0, Constantan Pickaxe Head
-tconstruct:pick_head:0, Corrupted Pickaxe Head
 tconstruct:shovel_head:0, Electrical Shovel Head
 tconstruct:shovel_head:0, Energetic Shovel Head
 tconstruct:shovel_head:0, Vibrant Shovel Head
@@ -13596,9 +13482,9 @@ tconstruct:shovel_head:0, Magical Wooden Shovel Head
 tconstruct:shovel_head:0, Evil Infused Shovel Head
 tconstruct:shovel_head:0, Enchanted Shovel Head
 tconstruct:shovel_head:0, Demonic Shovel Head
+tconstruct:shovel_head:0, Corrupted Shovel Head
 tconstruct:shovel_head:0, Treated Wood Shovel Head
 tconstruct:shovel_head:0, Constantan Shovel Head
-tconstruct:shovel_head:0, Corrupted Shovel Head
 tconstruct:axe_head:0, Electrical Axe Head
 tconstruct:axe_head:0, Energetic Axe Head
 tconstruct:axe_head:0, Vibrant Axe Head
@@ -13639,9 +13525,9 @@ tconstruct:axe_head:0, Magical Wooden Axe Head
 tconstruct:axe_head:0, Evil Infused Axe Head
 tconstruct:axe_head:0, Enchanted Axe Head
 tconstruct:axe_head:0, Demonic Axe Head
+tconstruct:axe_head:0, Corrupted Axe Head
 tconstruct:axe_head:0, Treated Wood Axe Head
 tconstruct:axe_head:0, Constantan Axe Head
-tconstruct:axe_head:0, Corrupted Axe Head
 tconstruct:broad_axe_head:0, Electrical Broad Axe Head
 tconstruct:broad_axe_head:0, Energetic Broad Axe Head
 tconstruct:broad_axe_head:0, Vibrant Broad Axe Head
@@ -13682,9 +13568,9 @@ tconstruct:broad_axe_head:0, Magical Wooden Broad Axe Head
 tconstruct:broad_axe_head:0, Evil Infused Broad Axe Head
 tconstruct:broad_axe_head:0, Enchanted Broad Axe Head
 tconstruct:broad_axe_head:0, Demonic Broad Axe Head
+tconstruct:broad_axe_head:0, Corrupted Broad Axe Head
 tconstruct:broad_axe_head:0, Treated Wood Broad Axe Head
 tconstruct:broad_axe_head:0, Constantan Broad Axe Head
-tconstruct:broad_axe_head:0, Corrupted Broad Axe Head
 tconstruct:sword_blade:0, Electrical Sword Blade
 tconstruct:sword_blade:0, Energetic Sword Blade
 tconstruct:sword_blade:0, Vibrant Sword Blade
@@ -13725,9 +13611,9 @@ tconstruct:sword_blade:0, Magical Wooden Sword Blade
 tconstruct:sword_blade:0, Evil Infused Sword Blade
 tconstruct:sword_blade:0, Enchanted Sword Blade
 tconstruct:sword_blade:0, Demonic Sword Blade
+tconstruct:sword_blade:0, Corrupted Sword Blade
 tconstruct:sword_blade:0, Treated Wood Sword Blade
 tconstruct:sword_blade:0, Constantan Sword Blade
-tconstruct:sword_blade:0, Corrupted Sword Blade
 tconstruct:large_sword_blade:0, Electrical Large Sword Blade
 tconstruct:large_sword_blade:0, Energetic Large Sword Blade
 tconstruct:large_sword_blade:0, Vibrant Large Sword Blade
@@ -13768,9 +13654,9 @@ tconstruct:large_sword_blade:0, Magical Wooden Large Sword Blade
 tconstruct:large_sword_blade:0, Evil Infused Large Sword Blade
 tconstruct:large_sword_blade:0, Enchanted Large Sword Blade
 tconstruct:large_sword_blade:0, Demonic Large Sword Blade
+tconstruct:large_sword_blade:0, Corrupted Large Sword Blade
 tconstruct:large_sword_blade:0, Treated Wood Large Sword Blade
 tconstruct:large_sword_blade:0, Constantan Large Sword Blade
-tconstruct:large_sword_blade:0, Corrupted Large Sword Blade
 tconstruct:hammer_head:0, Electrical Hammer Head
 tconstruct:hammer_head:0, Energetic Hammer Head
 tconstruct:hammer_head:0, Vibrant Hammer Head
@@ -13811,9 +13697,9 @@ tconstruct:hammer_head:0, Magical Wooden Hammer Head
 tconstruct:hammer_head:0, Evil Infused Hammer Head
 tconstruct:hammer_head:0, Enchanted Hammer Head
 tconstruct:hammer_head:0, Demonic Hammer Head
+tconstruct:hammer_head:0, Corrupted Hammer Head
 tconstruct:hammer_head:0, Treated Wood Hammer Head
 tconstruct:hammer_head:0, Constantan Hammer Head
-tconstruct:hammer_head:0, Corrupted Hammer Head
 tconstruct:excavator_head:0, Electrical Excavator Head
 tconstruct:excavator_head:0, Energetic Excavator Head
 tconstruct:excavator_head:0, Vibrant Excavator Head
@@ -13854,9 +13740,9 @@ tconstruct:excavator_head:0, Magical Wooden Excavator Head
 tconstruct:excavator_head:0, Evil Infused Excavator Head
 tconstruct:excavator_head:0, Enchanted Excavator Head
 tconstruct:excavator_head:0, Demonic Excavator Head
+tconstruct:excavator_head:0, Corrupted Excavator Head
 tconstruct:excavator_head:0, Treated Wood Excavator Head
 tconstruct:excavator_head:0, Constantan Excavator Head
-tconstruct:excavator_head:0, Corrupted Excavator Head
 tconstruct:kama_head:0, Electrical Kama Head
 tconstruct:kama_head:0, Energetic Kama Head
 tconstruct:kama_head:0, Vibrant Kama Head
@@ -13897,9 +13783,9 @@ tconstruct:kama_head:0, Magical Wooden Kama Head
 tconstruct:kama_head:0, Evil Infused Kama Head
 tconstruct:kama_head:0, Enchanted Kama Head
 tconstruct:kama_head:0, Demonic Kama Head
+tconstruct:kama_head:0, Corrupted Kama Head
 tconstruct:kama_head:0, Treated Wood Kama Head
 tconstruct:kama_head:0, Constantan Kama Head
-tconstruct:kama_head:0, Corrupted Kama Head
 tconstruct:scythe_head:0, Electrical Scythe Head
 tconstruct:scythe_head:0, Energetic Scythe Head
 tconstruct:scythe_head:0, Vibrant Scythe Head
@@ -13940,9 +13826,9 @@ tconstruct:scythe_head:0, Magical Wooden Scythe Head
 tconstruct:scythe_head:0, Evil Infused Scythe Head
 tconstruct:scythe_head:0, Enchanted Scythe Head
 tconstruct:scythe_head:0, Demonic Scythe Head
+tconstruct:scythe_head:0, Corrupted Scythe Head
 tconstruct:scythe_head:0, Treated Wood Scythe Head
 tconstruct:scythe_head:0, Constantan Scythe Head
-tconstruct:scythe_head:0, Corrupted Scythe Head
 tconstruct:pan_head:0, Electrical Pan
 tconstruct:pan_head:0, Energetic Pan
 tconstruct:pan_head:0, Vibrant Pan
@@ -13983,9 +13869,9 @@ tconstruct:pan_head:0, Magical Wooden Pan
 tconstruct:pan_head:0, Evil Infused Pan
 tconstruct:pan_head:0, Enchanted Pan
 tconstruct:pan_head:0, Demonic Pan
+tconstruct:pan_head:0, Corrupted Pan
 tconstruct:pan_head:0, Treated Wood Pan
 tconstruct:pan_head:0, Constantan Pan
-tconstruct:pan_head:0, Corrupted Pan
 tconstruct:sign_head:0, Electrical Sign Plate
 tconstruct:sign_head:0, Energetic Sign Plate
 tconstruct:sign_head:0, Vibrant Sign Plate
@@ -14026,9 +13912,9 @@ tconstruct:sign_head:0, Magical Wooden Sign Plate
 tconstruct:sign_head:0, Evil Infused Sign Plate
 tconstruct:sign_head:0, Enchanted Sign Plate
 tconstruct:sign_head:0, Demonic Sign Plate
+tconstruct:sign_head:0, Corrupted Sign Plate
 tconstruct:sign_head:0, Treated Wood Sign Plate
 tconstruct:sign_head:0, Constantan Sign Plate
-tconstruct:sign_head:0, Corrupted Sign Plate
 tconstruct:tool_rod:0, Electrical Tool Rod
 tconstruct:tool_rod:0, Energetic Tool Rod
 tconstruct:tool_rod:0, Vibrant Tool Rod
@@ -14069,9 +13955,9 @@ tconstruct:tool_rod:0, Magical Wooden Tool Rod
 tconstruct:tool_rod:0, Evil Infused Tool Rod
 tconstruct:tool_rod:0, Enchanted Tool Rod
 tconstruct:tool_rod:0, Demonic Tool Rod
+tconstruct:tool_rod:0, Corrupted Tool Rod
 tconstruct:tool_rod:0, Treated Wood Tool Rod
 tconstruct:tool_rod:0, Constantan Tool Rod
-tconstruct:tool_rod:0, Corrupted Tool Rod
 tconstruct:tough_tool_rod:0, Electrical Tough Tool Rod
 tconstruct:tough_tool_rod:0, Energetic Tough Tool Rod
 tconstruct:tough_tool_rod:0, Vibrant Tough Tool Rod
@@ -14112,9 +13998,9 @@ tconstruct:tough_tool_rod:0, Magical Wooden Tough Tool Rod
 tconstruct:tough_tool_rod:0, Evil Infused Tough Tool Rod
 tconstruct:tough_tool_rod:0, Enchanted Tough Tool Rod
 tconstruct:tough_tool_rod:0, Demonic Tough Tool Rod
+tconstruct:tough_tool_rod:0, Corrupted Tough Tool Rod
 tconstruct:tough_tool_rod:0, Treated Wood Tough Tool Rod
 tconstruct:tough_tool_rod:0, Constantan Tough Tool Rod
-tconstruct:tough_tool_rod:0, Corrupted Tough Tool Rod
 tconstruct:binding:0, Electrical Binding
 tconstruct:binding:0, Energetic Binding
 tconstruct:binding:0, Vibrant Binding
@@ -14155,9 +14041,9 @@ tconstruct:binding:0, Magical Wooden Binding
 tconstruct:binding:0, Evil Infused Binding
 tconstruct:binding:0, Enchanted Binding
 tconstruct:binding:0, Demonic Binding
+tconstruct:binding:0, Corrupted Binding
 tconstruct:binding:0, Treated Wood Binding
 tconstruct:binding:0, Constantan Binding
-tconstruct:binding:0, Corrupted Binding
 tconstruct:tough_binding:0, Electrical Tough Binding
 tconstruct:tough_binding:0, Energetic Tough Binding
 tconstruct:tough_binding:0, Vibrant Tough Binding
@@ -14198,9 +14084,9 @@ tconstruct:tough_binding:0, Magical Wooden Tough Binding
 tconstruct:tough_binding:0, Evil Infused Tough Binding
 tconstruct:tough_binding:0, Enchanted Tough Binding
 tconstruct:tough_binding:0, Demonic Tough Binding
+tconstruct:tough_binding:0, Corrupted Tough Binding
 tconstruct:tough_binding:0, Treated Wood Tough Binding
 tconstruct:tough_binding:0, Constantan Tough Binding
-tconstruct:tough_binding:0, Corrupted Tough Binding
 tconstruct:wide_guard:0, Electrical Wide Guard
 tconstruct:wide_guard:0, Energetic Wide Guard
 tconstruct:wide_guard:0, Vibrant Wide Guard
@@ -14241,9 +14127,9 @@ tconstruct:wide_guard:0, Magical Wooden Wide Guard
 tconstruct:wide_guard:0, Evil Infused Wide Guard
 tconstruct:wide_guard:0, Enchanted Wide Guard
 tconstruct:wide_guard:0, Demonic Wide Guard
+tconstruct:wide_guard:0, Corrupted Wide Guard
 tconstruct:wide_guard:0, Treated Wood Wide Guard
 tconstruct:wide_guard:0, Constantan Wide Guard
-tconstruct:wide_guard:0, Corrupted Wide Guard
 tconstruct:hand_guard:0, Electrical Hand Guard
 tconstruct:hand_guard:0, Energetic Hand Guard
 tconstruct:hand_guard:0, Vibrant Hand Guard
@@ -14284,9 +14170,9 @@ tconstruct:hand_guard:0, Magical Wooden Hand Guard
 tconstruct:hand_guard:0, Evil Infused Hand Guard
 tconstruct:hand_guard:0, Enchanted Hand Guard
 tconstruct:hand_guard:0, Demonic Hand Guard
+tconstruct:hand_guard:0, Corrupted Hand Guard
 tconstruct:hand_guard:0, Treated Wood Hand Guard
 tconstruct:hand_guard:0, Constantan Hand Guard
-tconstruct:hand_guard:0, Corrupted Hand Guard
 tconstruct:cross_guard:0, Electrical Cross Guard
 tconstruct:cross_guard:0, Energetic Cross Guard
 tconstruct:cross_guard:0, Vibrant Cross Guard
@@ -14327,9 +14213,9 @@ tconstruct:cross_guard:0, Magical Wooden Cross Guard
 tconstruct:cross_guard:0, Evil Infused Cross Guard
 tconstruct:cross_guard:0, Enchanted Cross Guard
 tconstruct:cross_guard:0, Demonic Cross Guard
+tconstruct:cross_guard:0, Corrupted Cross Guard
 tconstruct:cross_guard:0, Treated Wood Cross Guard
 tconstruct:cross_guard:0, Constantan Cross Guard
-tconstruct:cross_guard:0, Corrupted Cross Guard
 tconstruct:large_plate:0, Electrical Large Plate
 tconstruct:large_plate:0, Energetic Large Plate
 tconstruct:large_plate:0, Vibrant Large Plate
@@ -14370,9 +14256,9 @@ tconstruct:large_plate:0, Magical Wooden Large Plate
 tconstruct:large_plate:0, Evil Infused Large Plate
 tconstruct:large_plate:0, Enchanted Large Plate
 tconstruct:large_plate:0, Demonic Large Plate
+tconstruct:large_plate:0, Corrupted Large Plate
 tconstruct:large_plate:0, Treated Wood Large Plate
 tconstruct:large_plate:0, Constantan Large Plate
-tconstruct:large_plate:0, Corrupted Large Plate
 tconstruct:knife_blade:0, Electrical Knife Blade
 tconstruct:knife_blade:0, Energetic Knife Blade
 tconstruct:knife_blade:0, Vibrant Knife Blade
@@ -14413,9 +14299,9 @@ tconstruct:knife_blade:0, Magical Wooden Knife Blade
 tconstruct:knife_blade:0, Evil Infused Knife Blade
 tconstruct:knife_blade:0, Enchanted Knife Blade
 tconstruct:knife_blade:0, Demonic Knife Blade
+tconstruct:knife_blade:0, Corrupted Knife Blade
 tconstruct:knife_blade:0, Treated Wood Knife Blade
 tconstruct:knife_blade:0, Constantan Knife Blade
-tconstruct:knife_blade:0, Corrupted Knife Blade
 tconstruct:bow_limb:0, Electrical Bowlimb
 tconstruct:bow_limb:0, Energetic Bowlimb
 tconstruct:bow_limb:0, Vibrant Bowlimb
@@ -14502,9 +14388,9 @@ tconstruct:arrow_head:0, Magical Wooden Arrow Head
 tconstruct:arrow_head:0, Evil Infused Arrow Head
 tconstruct:arrow_head:0, Enchanted Arrow Head
 tconstruct:arrow_head:0, Demonic Arrow Head
+tconstruct:arrow_head:0, Corrupted Arrow Head
 tconstruct:arrow_head:0, Treated Wood Arrow Head
 tconstruct:arrow_head:0, Constantan Arrow Head
-tconstruct:arrow_head:0, Corrupted Arrow Head
 tconstruct:arrow_shaft:0, Wooden Arrow Shaft
 tconstruct:arrow_shaft:0, Bone Arrow Shaft
 tconstruct:arrow_shaft:0, Blazerod Arrow Shaft
@@ -14799,64 +14685,64 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Bowstring Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Large Sword Blade Cast
 tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Sign Plate Cast
 tconstruct:cast:0, Wide Guard Cast
 tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Pickaxe Head Cast
 tconstruct:cast:0, Cross Guard Cast
 tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Bowstring Cast
 tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Large Plate Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Bowstring Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
 tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
 tconstruct:clay_cast:0, Wide Guard Clay Cast
 tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
 tconstruct:clay_cast:0, Cross Guard Clay Cast
 tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Bowstring Clay Cast
 tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -16685,6 +16571,24 @@ ironbackpacks:upgrade:0, Damage Bar Upgrade
 ironbackpacks:upgrade:0, Latch Upgrade
 ironbackpacks:upgrade:0, Extra Upgrade Point
 ironbackpacks:upgrade:0, Everlasting Upgrade
+ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
+ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
+ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
+ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
+ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
+ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
+ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
+ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
+ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
+ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
+ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
+ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
+ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
+ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
+ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
+ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
+ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
+ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 ironchest:iron_chest:0, Iron Chest
 ironchest:iron_chest:1, Gold Chest
 ironchest:iron_chest:2, Diamond Chest
@@ -16805,24 +16709,6 @@ ironchest:iron_shulker_box_black:3, Black Copper Shulker Box
 ironchest:iron_shulker_box_black:4, Black Silver Shulker Box
 ironchest:iron_shulker_box_black:5, Black Crystal Shulker Box
 ironchest:iron_shulker_box_black:6, Black Obsidian Shulker Box
-ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
-ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
-ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
-ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
-ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
-ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
-ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
-ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
-ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
-ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
-ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
-ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
-ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
-ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
-ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
-ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
-ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
-ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 levelup2:respecbook, Book of Specialization Change
 levelup2:skillbook, Skill Book
 mekanismgenerators:solarpanel, Solar Panel
@@ -16912,19 +16798,6 @@ mekanismtools:steelhelmet, Steel Helmet
 mekanismtools:steelchestplate, Steel Chestplate
 mekanismtools:steelleggings, Steel Leggings
 mekanismtools:steelboots, Steel Boots
-mob_grinding_utils:fan, Mob Fan
-mob_grinding_utils:saw, Mob Masher
-mob_grinding_utils:absorption_hopper, Absorption Hopper
-mob_grinding_utils:spikes, Iron Spikes
-mob_grinding_utils:tank, Singularity Tank
-mob_grinding_utils:tank_sink, XP Drain Singularity Tank
-mob_grinding_utils:xp_tap, XP Tap
-mob_grinding_utils:wither_muffler, Wither Boss Death Muffler
-mob_grinding_utils:dragon_muffler, Ender Dragon Death Muffler
-mob_grinding_utils:dark_oak_stone, Dark Oak Stone
-mob_grinding_utils:entity_conveyor, Entity Conveyor
-mob_grinding_utils:ender_inhibitor_on, Ender Inhibitor Active
-mob_grinding_utils:ender_inhibitor_off, Ender Inhibitor Inactive
 mob_grinding_utils:fan_upgrade:0, Mob Fan Upgrade
 mob_grinding_utils:fan_upgrade:1, Mob Fan Upgrade
 mob_grinding_utils:fan_upgrade:2, Mob Fan Upgrade
@@ -16938,6 +16811,19 @@ mob_grinding_utils:saw_upgrade:5, Mob Masher Upgrade
 mob_grinding_utils:mob_swab, Mob Swab
 mob_grinding_utils:gm_chicken_feed, GM Chicken Feed
 mob_grinding_utils:null_sword, Imaginary Not Here Sword
+mob_grinding_utils:fan, Mob Fan
+mob_grinding_utils:saw, Mob Masher
+mob_grinding_utils:absorption_hopper, Absorption Hopper
+mob_grinding_utils:spikes, Iron Spikes
+mob_grinding_utils:tank, Singularity Tank
+mob_grinding_utils:tank_sink, XP Drain Singularity Tank
+mob_grinding_utils:xp_tap, XP Tap
+mob_grinding_utils:wither_muffler, Wither Boss Death Muffler
+mob_grinding_utils:dragon_muffler, Ender Dragon Death Muffler
+mob_grinding_utils:dark_oak_stone, Dark Oak Stone
+mob_grinding_utils:entity_conveyor, Entity Conveyor
+mob_grinding_utils:ender_inhibitor_on, Ender Inhibitor Active
+mob_grinding_utils:ender_inhibitor_off, Ender Inhibitor Inactive
 mowziesmobs:foliaath_seed, Foliaath Seed
 mowziesmobs:test_structure, Test Structures
 mowziesmobs:mob_remover, Mob Remover
@@ -17294,6 +17180,21 @@ scalinghealth:healingitem:0, Bandages
 scalinghealth:healingitem:1, Medkit
 scalinghealth:difficultychanger:0, Enchanted Heart
 scalinghealth:difficultychanger:1, Cursed Heart
+soulshardsrespawn:soul_cage, Soul Cage
+soulshardsrespawn:vile_sword, Vile Sword
+soulshardsrespawn:soul_shard:0, Unbound Soul Shard
+soulshardsrespawn:soul_shard:0, Unbound Soul Shard
+soulshardsrespawn:soul_shard:0, Unbound Soul Shard
+soulshardsrespawn:soul_shard:0, Unbound Soul Shard
+soulshardsrespawn:soul_shard:0, Unbound Soul Shard
+soulshardsrespawn:soul_shard:0, Unbound Soul Shard
+soulshardsrespawn:soul_shard:0, Unbound Soul Shard
+soulshardsrespawn:materials:0, Corrupted Ingot
+soulshardsrespawn:materials:1, Corrupted Essence
+soulshardsrespawn:materials:2, Vile Dust
+spiceoflife:bookfoodjournal, Food Journal
+spiceoflife:lunchbox, Lunch Box
+spiceoflife:lunchbag, Lunch Bag
 immersiveengineering:ore:0, Copper Ore
 immersiveengineering:ore:1, Bauxite Ore
 immersiveengineering:ore:2, Lead Ore
@@ -17614,21 +17515,6 @@ immersiveengineering:steel_armor_feet, Steel Boots
 immersiveengineering:steel_armor_legs, Steel Leggings
 immersiveengineering:steel_armor_chest, Steel Chestplate
 immersiveengineering:steel_armor_head, Steel Helmet
-soulshardsrespawn:soul_cage, Soul Cage
-soulshardsrespawn:vile_sword, Vile Sword
-soulshardsrespawn:soul_shard:0, Unbound Soul Shard
-soulshardsrespawn:soul_shard:0, Unbound Soul Shard
-soulshardsrespawn:soul_shard:0, Unbound Soul Shard
-soulshardsrespawn:soul_shard:0, Unbound Soul Shard
-soulshardsrespawn:soul_shard:0, Unbound Soul Shard
-soulshardsrespawn:soul_shard:0, Unbound Soul Shard
-soulshardsrespawn:soul_shard:0, Unbound Soul Shard
-soulshardsrespawn:materials:0, Corrupted Ingot
-soulshardsrespawn:materials:1, Corrupted Essence
-soulshardsrespawn:materials:2, Vile Dust
-spiceoflife:bookfoodjournal, Food Journal
-spiceoflife:lunchbox, Lunch Box
-spiceoflife:lunchbag, Lunch Bag
 agricraft:seed_analyzer, Seed Analyzer
 agricraft:peripheral, Computer Controlled Seed Analyzer
 agricraft:sprinkler, Sprinkler
