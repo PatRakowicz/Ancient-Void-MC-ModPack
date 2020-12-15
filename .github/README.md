@@ -8,7 +8,7 @@ Minecraft Version ```1.12.2```
 
 Forge Version ```14.23.5.2854```
 
-Will be using [Twitch](https://www.twitch.tv/downloads/)
+Will be using [Curse Forge](https://www.curseforge.com/)
 
 [broken] To have it load on twitch, open the `Dev` folder and run the `setup.bat` It should download and load anything nessessary and will show up on your twitch launcher.
 
